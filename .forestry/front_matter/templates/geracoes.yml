@@ -3,15 +3,14 @@ label: Geracoes
 hide_body: true
 fields:
 - type: field_group_list
-  name: tools
-  label: tools
+  name: geracoes
+  label: Geracoes
   fields:
   - type: text
     name: title
     label: title
   - type: field_group_list
-    name: tool
-    label: tool
+    name: geracao
     fields:
     - type: text
       name: name
@@ -19,3 +18,4 @@ fields:
     - type: text
       name: link
       label: link
+    label: geracao
