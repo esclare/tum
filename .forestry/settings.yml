@@ -19,7 +19,7 @@ sections:
   new_doc_ext: yml
   templates:
   - tools
- - type: directory
+- type: directory
   path: data
   label: Elementos
   create: documents
@@ -27,7 +27,7 @@ sections:
   new_doc_ext: yml
   templates:
   - elementos
- - type: directory
+- type: directory
   path: data
   label: Fitus
   create: documents
