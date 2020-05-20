@@ -12,7 +12,7 @@ sections:
   templates:
   - post
 - type: directory
-  path: data
+  path: data/tools
   label: Tools
   create: documents
   match: "**/*"
@@ -20,7 +20,7 @@ sections:
   templates:
   - tools
 - type: directory
-  path: data
+  path: data/fitus
   label: Fitus
   create: documents
   match: "**/*"
@@ -28,7 +28,7 @@ sections:
   templates:
   - fitus
 - type: directory
-  path: data
+  path: data/elementos
   label: Elementos
   create: documents
   match: "**/*"
