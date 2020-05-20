@@ -4,6 +4,7 @@ elementos:
   elemento:
   - name: Luís Veloso
     link: teste
+    image: "/images/avatar.png"
 - title: Dev elementos
   elemento:
   - name: Git
