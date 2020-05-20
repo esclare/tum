@@ -1,0 +1,63 @@
+---
+elementos:
+- title: Fundadores
+  elemento:
+  - name: Luís Veloso
+    link: teste
+- title: Dev elementos
+  elemento:
+  - name: Git
+    image: "/images/elementos/Git.png"
+    link: https://git-scm.com/
+  - name: Atom
+    image: "/images/elementos/Atom.png"
+    link: https://atom.io/
+  - name: Notepad ++
+    image: "/images/elementos/Notepad.png"
+    link: https://notepad-plus-plus.org/
+  - name: Sublime Text
+    image: "/images/elementos/sublime.png"
+    link: https://www.sublimetext.com/
+  - name: Visual Studio Code
+    image: "/images/elementos/vs-code.png"
+    link: https://code.visualstudio.com/
+- title: Design elementos
+  elemento:
+  - name: Sketch
+    image: "/images/elementos/sketch.png"
+    link: https://www.sketch.com/
+  - name: Adobe Illustrator
+    image: "/images/elementos/illustrator.png"
+    link: https://www.adobe.com/products/illustrator.html
+  - name: Invision
+    image: "/images/elementos/invision.png"
+    link: https://www.invisionapp.com/studio
+  - name: Adobe XD
+    image: "/images/elementos/xd.png"
+    link: https://www.adobe.com/products/xd.html
+  - name: Figma
+    image: "/images/elementos/figma.png"
+    link: https://www.figma.com/
+- title: Digital Marketing elementos
+  elemento:
+  - name: Mailchimp
+    image: "/images/elementos/MailChimp.jpg"
+    link: https://mailchimp.com/
+  - name: Buffer
+    image: "/images/elementos/Buffer.jpg"
+    link: https://buffer.com/
+  - name: Bitly Link
+    image: "/images/elementos/Bitly.jpg"
+    link: https://bitly.com/
+  - name: Hotjar
+    image: "/images/elementos/Hotjar.jpg"
+    link: https://www.hotjar.com/
+  - name: Ahrefs
+    image: "/images/elementos/Ahrefs.jpg"
+    link: https://ahrefs.com/
+  - name: Google Trends
+    image: "/images/elementos/GoogleTrends.jpg"
+    link: https://trends.google.com/trends/
+  - name: Google Analytics
+    image: "/images/elementos/Google-Analytics.jpg"
+    link: https://analytics.google.com/analytics/web

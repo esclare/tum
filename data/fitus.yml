@@ -1,63 +1,63 @@
 ---
-tools:
+fitus:
 - title: Fundadores
-  tool:
+  fitu:
   - name: Luís Veloso
     link: teste
-- title: Dev Tools
-  tool:
+- title: Dev fitus
+  fitu:
   - name: Git
-    image: "/images/tools/Git.png"
+    image: "/images/fitus/Git.png"
     link: https://git-scm.com/
   - name: Atom
-    image: "/images/tools/Atom.png"
+    image: "/images/fitus/Atom.png"
     link: https://atom.io/
   - name: Notepad ++
-    image: "/images/tools/Notepad.png"
+    image: "/images/fitus/Notepad.png"
     link: https://notepad-plus-plus.org/
   - name: Sublime Text
-    image: "/images/tools/sublime.png"
+    image: "/images/fitus/sublime.png"
     link: https://www.sublimetext.com/
   - name: Visual Studio Code
-    image: "/images/tools/vs-code.png"
+    image: "/images/fitus/vs-code.png"
     link: https://code.visualstudio.com/
-- title: Design Tools
-  tool:
+- title: Design fitus
+  fitu:
   - name: Sketch
-    image: "/images/tools/sketch.png"
+    image: "/images/fitus/sketch.png"
     link: https://www.sketch.com/
   - name: Adobe Illustrator
-    image: "/images/tools/illustrator.png"
+    image: "/images/fitus/illustrator.png"
     link: https://www.adobe.com/products/illustrator.html
   - name: Invision
-    image: "/images/tools/invision.png"
+    image: "/images/fitus/invision.png"
     link: https://www.invisionapp.com/studio
   - name: Adobe XD
-    image: "/images/tools/xd.png"
+    image: "/images/fitus/xd.png"
     link: https://www.adobe.com/products/xd.html
   - name: Figma
-    image: "/images/tools/figma.png"
+    image: "/images/fitus/figma.png"
     link: https://www.figma.com/
-- title: Digital Marketing Tools
-  tool:
+- title: Digital Marketing fitus
+  fitu:
   - name: Mailchimp
-    image: "/images/tools/MailChimp.jpg"
+    image: "/images/fitus/MailChimp.jpg"
     link: https://mailchimp.com/
   - name: Buffer
-    image: "/images/tools/Buffer.jpg"
+    image: "/images/fitus/Buffer.jpg"
     link: https://buffer.com/
   - name: Bitly Link
-    image: "/images/tools/Bitly.jpg"
+    image: "/images/fitus/Bitly.jpg"
     link: https://bitly.com/
   - name: Hotjar
-    image: "/images/tools/Hotjar.jpg"
+    image: "/images/fitus/Hotjar.jpg"
     link: https://www.hotjar.com/
   - name: Ahrefs
-    image: "/images/tools/Ahrefs.jpg"
+    image: "/images/fitus/Ahrefs.jpg"
     link: https://ahrefs.com/
   - name: Google Trends
-    image: "/images/tools/GoogleTrends.jpg"
+    image: "/images/fitus/GoogleTrends.jpg"
     link: https://trends.google.com/trends/
   - name: Google Analytics
-    image: "/images/tools/Google-Analytics.jpg"
+    image: "/images/fitus/Google-Analytics.jpg"
     link: https://analytics.google.com/analytics/web

@@ -14,7 +14,7 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
-URL = "geracoes"
+URL = "elementos"
 name = "Elementos"
 weight = 3
 [[menu.main]]
