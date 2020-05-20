@@ -3,15 +3,15 @@ label: teste
 hide_body: true
 fields:
 - type: field_group_list
-  name: tools
-  label: tools
+  name: testes
+  label: testes
   fields:
   - type: text
     name: title
     label: title
   - type: field_group_list
-    name: tool
-    label: tool
+    name: teste
+    label: teste
     fields:
     - type: text
       name: name
