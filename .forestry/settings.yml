@@ -5,6 +5,14 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: data
+  label: Gerações
+  create: documents
+  match: "**/*"
+  new_doc_ext: yml
+  templates:
+  - geracoes
+- type: directory
   path: content
   label: Post
   create: documents
