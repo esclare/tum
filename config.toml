@@ -8,7 +8,8 @@ title = "Northendlab | Blog Template"
 [[menu.footer]]
 URL = "tools"
 name = "tools"
-weight = 2
+parent = "Contact"
+weight = 1
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
