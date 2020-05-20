@@ -1,6 +1,6 @@
 baseURL = "https://tum.netlify.app/"
 disqusShortname = ""
-languageCode = "en-us"
+languageCode = "pt-pt"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
