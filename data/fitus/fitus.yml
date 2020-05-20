@@ -4,6 +4,7 @@ fitus:
   fitu:
   - name: Luís Veloso
     link: teste
+    image: "/images/avatar.png"
 - title: Dev fitus
   fitu:
   - name: Git
