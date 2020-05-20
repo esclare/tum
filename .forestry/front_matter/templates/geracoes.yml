@@ -10,8 +10,8 @@ fields:
     name: title
     label: title
   - type: field_group_list
-    name: tool
-    label: tool
+    name: elemento
+    label: elemento
     fields:
     - type: text
       name: name
