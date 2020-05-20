@@ -19,3 +19,5 @@ fields:
       name: link
       label: link
     label: geracao
+pages:
+- data/geracoes.yml
