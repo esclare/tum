@@ -1,17 +1,17 @@
 ---
-label: Geracoes
+label: Fitus
 hide_body: true
 fields:
 - type: field_group_list
-  name: geracoes
-  label: geracoes
+  name: fitus
+  label: fitus
   fields:
   - type: text
     name: title
     label: title
   - type: field_group_list
-    name: elemento
-    label: elemento
+    name: fitu
+    label: fitu
     fields:
     - type: text
       name: name
@@ -19,3 +19,6 @@ fields:
     - type: file
       name: image
       label: image
+    - type: text
+      name: link
+      label: link
