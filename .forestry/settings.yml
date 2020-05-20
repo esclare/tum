@@ -19,6 +19,22 @@ sections:
   new_doc_ext: yml
   templates:
   - tools
+ - type: directory
+  path: data
+  label: Elementos
+  create: documents
+  match: "**/*"
+  new_doc_ext: yml
+  templates:
+  - elementos
+ - type: directory
+  path: data
+  label: Fitus
+  create: documents
+  match: "**/*"
+  new_doc_ext: yml
+  templates:
+  - fitus
 - type: directory
   path: content/author
   label: Author
