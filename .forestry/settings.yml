@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: data
+  path: data2
   label: Gerações
   create: documents
   match: "**/*"
