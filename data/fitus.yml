@@ -61,3 +61,7 @@ fitus:
   - name: Google Analytics
     image: "/images/fitus/Google-Analytics.jpg"
     link: https://analytics.google.com/analytics/web
+tools:
+- title: fitus
+  tool:
+  - name: fitu
