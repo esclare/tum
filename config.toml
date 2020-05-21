@@ -17,8 +17,7 @@ weight = 1
 [[menu.main]]
 URL = "elementos"
 name = "Elementos"
-parent = "tools"
-weight = 1
+weight = 3
 [[menu.main]]
 URL = "tools"
 name = "tools"
