@@ -2,12 +2,24 @@
 elementos:
 - title: Fundadores
   elemento:
+  - name: Git
+    image: "/images/elementos/Git.png"
+    link: https://git-scm.com/
+  - name: José Lino Gomes
+    link: teste
+    image: "/images/avatar.png"
   - name: Luís Veloso
     link: teste
     image: "/images/avatar.png"
-- title: Dev elementos
+  - name: Git
+    image: "/images/elementos/Git.png"
+    link: https://git-scm.com/
+- title: 1991
   elemento:
   - name: Git
+    image: "/images/elementos/Git.png"
+    link: https://git-scm.com/
+  - name: Git 2
     image: "/images/elementos/Git.png"
     link: https://git-scm.com/
   - name: Atom
