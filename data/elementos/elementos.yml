@@ -74,6 +74,13 @@ elementos:
   - name: Google Analytics
     image: "/images/elementos/Google-Analytics.jpg"
     link: https://analytics.google.com/analytics/web
+=======
+  - nome: Luís Veloso
+    image: "/images/tuninho.jpg"
+    alcunha: Veloso
+    curso: Engenharia Civil
+    instrumento: Bandoloncelo
+>>>>>>> 92ce368d4bb8e45f38ebd25f240c3caf0bb74dd0
 tools:
 - title: elementos
   tool:

@@ -14,11 +14,22 @@ fields:
     label: elemento
     fields:
     - type: text
-      name: name
-      label: name
+      name: nome
+      label: Nome
     - type: file
       name: image
       label: image
+      default: "/images/tuninho.jpg"
     - type: text
-      name: link
-      label: link
+      name: alcunha
+      label: alcunha
+    - name: curso
+      type: text
+      config:
+        required: false
+      label: Curso
+    - name: instrumento
+      type: text
+      config:
+        required: false
+      label: Instrumento
