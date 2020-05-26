@@ -82,6 +82,6 @@ link = "#"
 icon = "ti-linkedin"
 link = "#"
 [[params.homepageimage]]
-url = "#"
+url = "images/home1.jpg"
 [[params.homepageimage]]
-url = "#"
+url = "images/home2.jpg"

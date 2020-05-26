@@ -1,19 +1,37 @@
 {{ define "main" }}
 
 <!-- banner -->
-<section class="banner bg-cover" >
-  <img src="{{ .Site.Params.banner.image | relURL }}" class="img-fluid illustration" alt="">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6 mb-5 mb-lg-0">
-        <h1>{{ .Site.Params.banner.title | markdownify }}</h1>
-      </div>
-      <div class="col-lg-6 illustration-mobile">
-        <img src="{{ .Site.Params.banner.image | relURL }}" class="img-fluid" alt="">
-      </div>
+
+ <div class="container-fluid px-0">
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner bg-info" role="listbox">
+		{{ range first 1 .Site.Params.homepageimage }}
+            <div class="carousel-item active">
+                <div class="d-flex align-items-center justify-content-center min-vh-100">
+                    <img src="{{ .url }}" width="100%">
+                </div>
+            </div>
+			{{ end }}
+			{{ range after 1 .Site.Params.homepageimage }}
+            <div class="carousel-item">
+                <div class="d-flex align-items-center justify-content-center min-vh-100">
+                    <img src="{{ .url }}" width="100%">
+                </div>
+            </div>
+			{{ end }}
+           
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
     </div>
-  </div>
-</section>
+</div>
+
 <!-- /banner -->
 
 
