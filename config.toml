@@ -49,6 +49,14 @@ title = "Get the best hugo templates"
 [params.cta.button]
 enable = true
 label = "Visit Here"
+[params.cta2]
+description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+enable = true
+image = "images/hugo-muscot.svg"
+title = "Get the best hugo templates"
+[params.cta2.button]
+enable = true
+label = "Visit Here"
 link = "https://gethugothemes.com/shop/"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -77,10 +85,10 @@ url = "images/home2.jpg"
 icon = "ti-facebook"
 link = "#"
 [[params.social]]
-icon = "ti-twitter-alt"
+icon = "ti-instagram"
 link = "#"
 [[params.social]]
-icon = "ti-github"
+icon = "ti-youtube"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
