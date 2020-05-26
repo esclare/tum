@@ -43,7 +43,7 @@ image = "images/banner/illustration.svg"
 title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
-enable = false
+enable = true
 image = "images/hugo-muscot.svg"
 title = "Get the best hugo templates"
 [params.cta.button]
@@ -69,6 +69,10 @@ enable = true
 preloader = ""
 [params.search]
 enable = false
+[[params.homepageimage]]
+url = "images/home1.jpg"
+[[params.homepageimage]]
+url = "images/home2.jpg"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
@@ -81,7 +85,3 @@ link = "#"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
-[[params.homepageimage]]
-url = "images/home1.jpg"
-[[params.homepageimage]]
-url = "images/home2.jpg"
