@@ -3,6 +3,26 @@
   background-image: url(../images/backgrounds/pattern.png);
 } */
 
+.title {
+	color: $primary-color;
+	}
+.main-header {
+    background: #191f3a;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 8px 6px -6px #171e3a;
+}
+
+.card-cta {
+    background: #191f3a !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    box-shadow: 0 0 10px rgba(28, 39, 60, 0.1);
+}
+
+.main-footer {
+    background-color: #191f3a;
+    border-top: 1px solid rgba(226, 232, 245, 0.1);
+}
+
 /* banner */
 .banner {
   padding: 220px 0 120px;

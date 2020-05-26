@@ -1,17 +1,17 @@
 <!-- footer -->
-<footer class="py-4 bg-light border-top">
+<footer class="py-4 main-footer">
   <div class="container">
     <div class="row justify-content-between align-items-center">
-      <div class="col-lg-4 text-center text-lg-left mb-4 mb-lg-0">
-        <a href="{{ .Site.BaseURL }}" class="d-block pb-3"><img src="{{ .Site.Params.logo | relURL }}" class="img-fluid" alt="{{ .Site.Title }}"></a>
+      <div class="col-lg-8 text-center text-lg-left mb-4 mb-lg-0">
+        <span>1991-{{ dateFormat "2006" now }} {{ .Site.Params.copyright | markdownify }}</span>
       </div>
-      <div class="col-lg-4 text-center mb-4 mb-lg-0">
-        <ul class="list-inline mb-0">
+      <!-- <div class="col-lg-4 text-center mb-4 mb-lg-0">
+        <!-- <ul class="list-inline mb-0">
           {{ range .Site.Menus.footer }}
           <li class="list-inline-item"><a class="text-dark d-block p-2" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
           {{ end }}
-        </ul>
-      </div>
+        </ul> 
+      </div> -->
       <div class="col-lg-4 text-lg-right text-center mb-4 mb-lg-0">
         <ul class="list-inline social-icon mb-0">
           {{ range .Site.Params.social }}
@@ -20,9 +20,9 @@
         </ul>
       </div>
     </div>
-    <div class="text-center mt-4">
-      <span>{{ .Site.Params.copyright | markdownify }}</span>
-    </div>
+    <!-- <div class="text-center mt-4">
+      <span>1991-{{ dateFormat "2006" now }} {{ .Site.Params.copyright | markdownify }}</span>
+    </div> -->
   </div>
 </footer>
 <!-- /footer -->
@@ -45,6 +45,9 @@
 
 {{ "<!-- google analitycs -->" | safeHTML }}
 {{ with .Site.Params.google_analitycs_id }}
+<script>
+    document.getElementById("year").innerHTML = new Date().getFullYear();
+</script>
 <script>
   (function (i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;
