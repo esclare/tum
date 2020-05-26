@@ -17,3 +17,10 @@ elementos:
     alcunha: Veloso
     curso: Engenharia Civil
     instrumento: Bandoloncelo
+- title: "1991"
+  elemento:
+  - nome: David Moreira
+    image: "/images/tuninho.jpg"
+    alcunha: Brincolhão
+    curso: Química - Ramo Controlo Qualidade
+    instrumento: Braguesa
