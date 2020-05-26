@@ -3,8 +3,7 @@ label: Elementos
 hide_body: true
 fields:
 - type: field_group_list
-  name: elementos
-  label: elementos
+  name: geracoes
   fields:
   - type: text
     name: title
@@ -33,3 +32,4 @@ fields:
       config:
         required: false
       label: Instrumento
+  label: Gerações
