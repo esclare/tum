@@ -34,7 +34,7 @@ sections:
   match: "**/*"
   new_doc_ext: yml
   templates:
-  - elementos
+  - fitus
 - type: directory
   path: content/author
   label: Author
