@@ -9,26 +9,17 @@ fields:
   - type: text
     name: title
     label: title
-  - type: field_group_list
-    name: fitu
-    label: fitu
-    fields:
-    - name: ano
-      type: number
-      label: Ano
-      description: ''
-      default: 0
-      required: true
-      config:
-        min: 
-        max: 
-        step: 
-    - name: texto
-      type: textarea
-      default: ''
-      config:
-        required: false
-        wysiwyg: true
-        schema:
-          format: markdown
-      label: Texto
+  - name: texto
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Texto
+- name: imagem
+  type: file
+  config:
+    maxSize: 64
+  label: Imagem
