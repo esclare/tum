@@ -20,6 +20,14 @@ sections:
   templates:
   - tools
 - type: directory
+  path: data/elementos
+  label: Elementos
+  create: documents
+  match: "**/*"
+  new_doc_ext: yml
+  templates:
+  - elementos
+- type: directory
   path: data/fitus
   label: Fitus
   create: documents
