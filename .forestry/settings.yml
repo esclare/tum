@@ -28,8 +28,8 @@ sections:
   templates:
   - fitus
 - type: directory
-  path: data/elementos
-  label: Elementos
+  path: data/fitus
+  label: Fitus
   create: documents
   match: "**/*"
   new_doc_ext: yml
