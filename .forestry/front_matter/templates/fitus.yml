@@ -18,8 +18,8 @@ fields:
       schema:
         format: markdown
     label: Texto
-  - name: imagem
+  - name: image
     type: file
     config:
       maxSize: 64
-    label: Imagem
+    label: Image
