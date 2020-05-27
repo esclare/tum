@@ -26,14 +26,6 @@ sections:
   match: "**/*"
   new_doc_ext: yml
   templates:
-  - fitus
-- type: directory
-  path: data/fitus
-  label: Fitus
-  create: documents
-  match: "**/*"
-  new_doc_ext: yml
-  templates:
   - elementos
 - type: directory
   path: content/author
