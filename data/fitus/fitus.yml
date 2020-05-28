@@ -11,7 +11,11 @@ fitus:
       in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
       and more recently with desktop publishing software like Aldus PageMaker including
       versions of Lorem Ipsum."
-  image: "/images/home2.jpg"
+  image: "/images/1fitu2.jpg"
+  texto: |-
+    I FITU Bracara Avgvsta (10 e 11 de Maio de 1991)
+
+    **Melhor Tuna**: Tuna de Direito de Málaga.
 - title: II
   fitu:
   - ano: '1992'
