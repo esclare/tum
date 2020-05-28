@@ -21,7 +21,7 @@
           {{ range $index, $elemen:= .Site.Data.fitus.fitus.fitus }}
           <div class="tab-pane fade {{ if eq $index 0}} show active {{ end }}" id="{{.title | urlize}}" role="tabpanel">
             <div class="row">
-              {{ range .fitu}}
+              
               <div class="col-lg-12 mb-5 d-md-flex">
       <div class="avatar mb-md-0 mb-4 mx-4">
         <img src="{{ .image | relURL }}" width ="75px" class="rounded z-depth-1" alt="{{ .name | markdownify }}">
@@ -33,7 +33,7 @@
         
       </div>
     </div>
-              {{ end }}
+              
             </div>
           </div>
           {{ end }}
