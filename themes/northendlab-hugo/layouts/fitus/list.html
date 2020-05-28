@@ -10,7 +10,7 @@
     <div class="row">
       <div class="col-3">
         <div class="nav nav-tab flex-column" role="tablist" aria-orientation="vertical">
-          {{ range $index, $elemen:= .Site.Data.elementos.elementos.elementos }}
+          {{ range $index, $elemen:= .Site.Data.fitus.fitus.fitus }}
           <a class="nav-link {{ if eq $index 0}} active {{ end }}" data-toggle="pill" href="#{{.title | urlize}}" role="tab">{{ .title }}</a>
           {{ end }}
         </div>
@@ -18,19 +18,17 @@
       <div class="col-9">
 	  
         <div class="tab-content  ">
-          {{ range $index, $elemen:= .Site.Data.elementos.elementos.elementos }}
+          {{ range $index, $elemen:= .Site.Data.fitus.fitus.fitus }}
           <div class="tab-pane fade {{ if eq $index 0}} show active {{ end }}" id="{{.title | urlize}}" role="tabpanel">
             <div class="row">
-              {{ range .elemento}}
-              <div class="col-lg-6 mb-5 d-md-flex">
+              {{ range .fitu}}
+              <div class="col-lg-12 mb-5 d-md-flex">
       <div class="avatar mb-md-0 mb-4 mx-4">
         <img src="{{ .image | relURL }}" width ="75px" class="rounded z-depth-1" alt="{{ .name | markdownify }}">
       </div>
       <div class="mx-4">
-        <h4 class="font-weight-bold mb-3">{{ .alcunha | markdownify }}</h4>
-        <h6 class="font-weight-bold grey-text mb-3">{{ .nome | markdownify }}</h6>
-        <h6 class="grey-text">🎸 {{ .instrumento | markdownify }}</h6>
-		<h6 class="grey-text">🎓 {{ .curso | markdownify }}</h6>
+        <p >{{ .texto | markdownify }}</p>
+       
         <!-- Facebook-->
         
       </div>
