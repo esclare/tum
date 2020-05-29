@@ -3,6 +3,26 @@
   background-image: url(../images/backgrounds/pattern.png);
 } */
 
+.accordion {
+  margin-top: 40px;
+  .card {
+    border: none;
+    margin-bottom: 20px;
+    h2 {
+      background: url(../images/icons/icons8-collapse-arrow-48.png) no-repeat calc(100% - 10px) center;
+    background-size: 20px;
+      cursor: pointer;
+      font-size: 18px;
+      &.collapsed {
+            background-image: url(../images/icons/icons8-expand-arrow-48.png);
+      }
+    }
+    &-body {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
 .title {
 	color: $primary-color;
 	}

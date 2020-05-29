@@ -2,45 +2,49 @@
 
 <section class="section">
   <div class="container">
-	<div class="row">
-	<div class="col-12 mb-5">
+	<div class="row ">
+	<div class="col-12 mb-5 ">
 	  <h3>{{ .Title | markdownify }}</h3>
 	  </div>
 	  </div>
-    <div class="row">
-      <div class="col-3">
-        <div class="nav nav-tab flex-column" role="tablist" aria-orientation="vertical">
-          {{ range $index, $elemen:= .Site.Data.fitus.fitus.fitus }}
-          <a class="nav-link {{ if eq $index 0}} active {{ end }}" data-toggle="pill" href="#{{.title | urlize}}" role="tab">{{ .title }}</a>
-          {{ end }}
-        </div>
       </div>
-      <div class="col-9">
-	  
-        <div class="tab-content  ">
-          {{ range $index, $elemen:= .Site.Data.fitus.fitus.fitus }}
-          <div class="tab-pane fade {{ if eq $index 0}} show active {{ end }}" id="{{.title | urlize}}" role="tabpanel">
-            <div class="row">
-              
-              <div class="col-lg-12 mb-5 d-md-flex">
-      <div class="avatar mb-md-0 mb-4 mx-4">
-        <img src="{{ .image | relURL }}" width ="75px" class="rounded z-depth-1" alt="{{ .name | markdownify }}">
-      </div>
-      <div class="mx-4">
-        <p >{{ .texto | markdownify }}</p>
-       
-        <!-- Facebook-->
-        
-      </div>
+	<div class="container">
+	<div class="col-8 mb-5  justify-content-md-center">
+  <div class="accordion" id="accordionExample">
+  {{ range first 1 .Site.Data.fitus.fitus.fitus }}
+  <div class="card bg-transparent">
+    <div class="card-head" id="heading{{ replaceRE "(\\s)" "" .title }}">
+      <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(\\s)" "" .title }}" aria-expanded="true" aria-controls="collapseOne">
+          {{ .title | markdownify }}
+      </h2>
     </div>
-              
-            </div>
-          </div>
-          {{ end }}
-        </div>
+
+    <div id="{{ replaceRE "(\\s)" "" .title }}" class="collapse show" aria-labelledby="heading{{ replaceRE "(\\s)" "" .title }}" data-parent="#accordionExample">
+      <div class="card-body">
+        {{ .texto | markdownify }}
       </div>
     </div>
   </div>
+  {{ end }}
+  {{ range after 1 .Site.Data.fitus.fitus.fitus }}
+  <div class="card bg-transparent">
+    <div class="card-head" id="heading{{ replaceRE "(\\s)" "" .title }}">
+      <h2 class="mb-0 collapsed text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(\\s)" "" .title }}" aria-expanded="false" aria-controls="{{ replaceRE "(\\s)" "" .title }}">
+          {{ .title | markdownify }}
+      </h2>
+    </div>
+    <div id="{{ replaceRE "(\\s)" "" .title }}" class="collapse" aria-labelledby="heading{{ replaceRE "(\\s)" "" .title }}" data-parent="#accordionExample">
+      <div class="card-body">
+        {{ .texto | markdownify }}
+      </div>
+    </div>
+  </div>
+  {{ end }}
+
+</div>
+</div>
+</div>
+
 </section>
 
 {{ end }}
