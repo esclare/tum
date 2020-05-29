@@ -1,5 +1,8 @@
 +++
 title = "Simbologia"
+[menu.main]
+parent = "Sobre a TUM"
+weight = 3
 
 +++
 #### O Escudo
