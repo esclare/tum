@@ -9,3 +9,4 @@ fields:
   label: Titulo
 pages:
 - content/pages/teste1.md
+- content/pages/traje.md
