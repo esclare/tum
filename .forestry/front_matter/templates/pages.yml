@@ -17,5 +17,4 @@ fields:
       format: markdown
   label: Texto
 pages:
-- content/pages/pagina1.md
 - content/pages/pagina2.md
