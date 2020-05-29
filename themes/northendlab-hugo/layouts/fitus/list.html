@@ -2,45 +2,58 @@
 
 <section class="section">
   <div class="container">
-	<div class="row ">
-	<div class="col-12 mb-5 ">
-	  <h3>{{ .Title | markdownify }}</h3>
+	<div class="row justify-content-between">
+	<h2 class="mb-4">{{ .Title | markdownify }}</h2>
 	  </div>
 	  </div>
-      </div>
 	<div class="container">
-	<div class="col-8 mb-5  justify-content-md-center">
+	<div class="col-md-8 col-sm-12 mb-5 ">
   <div class="accordion" id="accordionExample">
   {{ range first 1 .Site.Data.fitus.fitus.fitus }}
   <div class="card bg-transparent">
-    <div class="card-head" id="heading{{ replaceRE "(\\s)" "" .title }}">
-      <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(\\s)" "" .title }}" aria-expanded="true" aria-controls="collapseOne">
+    <div class="card-head" id="heading{{ replaceRE "(/images/|.jpg)" "" .image }}">
+      <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(/images/|.jpg)" "" .image }}" aria-expanded="true" aria-controls="collapseOne">
           {{ .title | markdownify }}
       </h2>
     </div>
 
-    <div id="{{ replaceRE "(\\s)" "" .title }}" class="collapse show" aria-labelledby="heading{{ replaceRE "(\\s)" "" .title }}" data-parent="#accordionExample">
+    <div id="{{ replaceRE "(/images/|.jpg)" "" .image }}" class="collapse show" aria-labelledby="heading{{ replaceRE "(/images/|.jpg)" "" .image }}" data-parent="#accordionExample">
       <div class="card-body">
-        {{ .texto | markdownify }}
+	  <div class="row">
+	  <div class="col-md-3">
+	  <img src="{{ .image }}">
+	  </div>
+	  <div class="col-md-9">
+        <div class="content">{{ .texto | markdownify }}</div>
+		</div>
+		</div>
       </div>
     </div>
   </div>
   {{ end }}
   {{ range after 1 .Site.Data.fitus.fitus.fitus }}
   <div class="card bg-transparent">
-    <div class="card-head" id="heading{{ replaceRE "(\\s)" "" .title }}">
-      <h2 class="mb-0 collapsed text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(\\s)" "" .title }}" aria-expanded="false" aria-controls="{{ replaceRE "(\\s)" "" .title }}">
+    <div class="card-head" id="heading{{ replaceRE "(/images/|.jpg)" "" .image }}">
+      <h2 class="mb-0 collapsed text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(/images/|.jpg)" "" .image }}" aria-expanded="false" aria-controls="{{ replaceRE "(\\s)" "" .title }}">
           {{ .title | markdownify }}
       </h2>
     </div>
-    <div id="{{ replaceRE "(\\s)" "" .title }}" class="collapse" aria-labelledby="heading{{ replaceRE "(\\s)" "" .title }}" data-parent="#accordionExample">
+    <div id="{{ replaceRE "(/images/|.jpg)" "" .image }}" class="collapse" aria-labelledby="heading{{ replaceRE "(/images/|.jpg)" "" .image }}" data-parent="#accordionExample">
       <div class="card-body">
-        {{ .texto | markdownify }}
+         <div class="row">
+	  <div class="col-md-3">
+	  <img src="{{ .image }}">
+	  </div>
+	  <div class="col-md-9">
+        <div class="content">{{ .texto | markdownify }}</div>
+		</div>
+		</div>
       </div>
     </div>
   </div>
   {{ end }}
 
+</div>
 </div>
 </div>
 </div>
