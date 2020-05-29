@@ -7,5 +7,3 @@ fields:
   config:
     required: false
   label: Titulo
-pages:
-- content/pages/pagina1.md
