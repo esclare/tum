@@ -12,3 +12,5 @@ Elmo de prata, aberto a três quartos, forrado a vermelho. No timbre, dois bando
 #### O Estandarte
 
 O estandarte da Tuna Universitária do Minho tem uma das faces de fundo negro com o escudo da Tuna e escrito a vermelho “Tuna Universitária do Minho”. A outra face, de fundo vermelho, tem o escudo da Tuna recortado, ao centro, com fundo negro.
+
+![](/images/bandeira.gif)
