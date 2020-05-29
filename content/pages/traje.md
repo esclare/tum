@@ -28,4 +28,4 @@ As alterações efectuadas pela Tuna ao traje académico foram:
 * O uso da capa com os emblemas ou dísticos, das localidades onde cada tuno tunou, ou oferecidos por instituições congéneres, colocados do lado de fora
 * O uso de dísticos e pins na lapela do casaco como recordações sentimentais de cada tuno.
 
-![](/images/imagens_traje-capa.gif "Traje com capa")![](/images/traje-frente.gif "Traje visto de frente")
+![](/images/imagens_traje-capa.gif "Traje com capa")![](/images/traje-frente.gif "Traje visto de frente")![](/images/traje-tras.gif "Traje visto de trás")![](/images/traje-caloiro.gif "Traje de Caloiro")![](/images/tricornio.gif "Tricórnio")
