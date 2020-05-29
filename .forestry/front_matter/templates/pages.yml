@@ -7,12 +7,3 @@ fields:
   config:
     required: false
   label: Titulo
-- name: texto
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Texto
