@@ -8,5 +8,6 @@ fields:
     required: false
   label: Titulo
 pages:
+- content/pages/simbologia.md
 - content/pages/teste1.md
 - content/pages/traje.md
