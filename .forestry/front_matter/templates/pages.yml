@@ -16,5 +16,3 @@ fields:
     schema:
       format: markdown
   label: Texto
-pages:
-- content/pages/pagina2.md
