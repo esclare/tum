@@ -15,6 +15,9 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
+URL = "historial"
+name = "Historial"
+[[menu.main]]
 URL = "elementos"
 name = "Elementos"
 [[menu.main]]
