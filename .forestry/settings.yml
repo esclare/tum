@@ -12,11 +12,6 @@ sections:
   templates:
   - pages
 - type: directory
-  path: content/historial
-  label: Historial
-  create: all
-  match: "**/*"
-- type: directory
   path: content
   label: Post
   create: documents
