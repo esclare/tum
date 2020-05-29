@@ -7,7 +7,7 @@ fields:
   config:
     required: false
   label: Titulo
-- name: teste
+- name: texto
   type: textarea
   default: ''
   config:
