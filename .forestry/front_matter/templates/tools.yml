@@ -9,16 +9,12 @@ fields:
   - type: text
     name: title
     label: title
-  - type: field_group_list
-    name: tool
-    label: tool
-    fields:
-    - type: text
-      name: name
-      label: name
-    - type: file
-      name: image
-      label: image
-    - type: text
-      name: link
-      label: link
+  - name: texto
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Texto
