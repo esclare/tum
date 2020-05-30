@@ -7,8 +7,8 @@ fields:
   label: Espetáculos
   fields:
   - type: text
-    name: title
-    label: title
+    name: ano
+    label: Ano
   - name: texto
     type: textarea
     default: ''
