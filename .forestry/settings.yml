@@ -20,7 +20,7 @@ sections:
   - post
 - type: directory
   path: data/tools
-  label: Tools
+  label: Espetáculos
   create: documents
   match: "**/*"
   new_doc_ext: yml
