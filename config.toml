@@ -50,13 +50,13 @@ bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
 title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
 [params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+description = "Ensaios todas as terças e quita-feiras por baixo do BA às 21:30"
 enable = true
-image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+image = "/images/bandeira.gif"
+title = "Queres pertencer à Tuna Universitária do Minho? "
 [params.cta.button]
 enable = true
-label = "Visit Here"
+label = "Contacta-nos"
 [params.cta2]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
