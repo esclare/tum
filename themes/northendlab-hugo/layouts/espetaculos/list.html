@@ -2,13 +2,10 @@
 
 <section class="section">
   <div class="container">
-	<div class="row justify-content-between">
-	<h2 class="mb-4">{{ .Title | markdownify }}</h2>
-	  </div>
-	  </div>
-	<div class="container">
+		 <div class="row justify-content-between">
 	<div class="col-md-8 col-sm-12 mb-5 ">
-  <div class="accordion" id="accordionExample">
+	<h2 class="mb-4">{{ .Title | markdownify }}</h2>
+	  <div class="accordion" id="accordionExample">
   {{ range first 1 .Site.Data.tools.tools.espetaculos }}
   <div class="card bg-transparent">
     <div class="card-head" id="heading{{ .ano }}">
@@ -51,7 +48,6 @@
 </div>
 </div>
 </div>
-
 </section>
 
 {{ end }}
