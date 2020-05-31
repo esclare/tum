@@ -59,12 +59,12 @@ enable = true
 label = "Contacta-nos"
 link ="/contact"
 [params.cta2]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+description = "Em breve novidades sobre a próxima edição do festival"
 enable = true
-image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+image = "/images/fitu.jpg"
+title = "FITU Bracara Avgvsta"
 [params.cta2.button]
-enable = true
+enable = false
 label = "Visit Here"
 link = "https://gethugothemes.com/shop/"
 [[params.plugins.css]]
