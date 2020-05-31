@@ -1,7 +1,7 @@
 ---
-title: Contact Us
+title: Contactos
 description: this is meta description
-image: images/contact.svg
+image: "/images/simbologia.gif"
 menu:
   main:
     name: Contacto
@@ -9,4 +9,6 @@ menu:
     weight: 2
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+Magister: Pão-de-Lov (
+
+Director: 
