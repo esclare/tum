@@ -6,7 +6,7 @@ menu:
   main:
     name: Contacto
     URL: contact
-    weight: 2
+    weight: 3
 
 ---
 Magister: Pão-de-Lov (

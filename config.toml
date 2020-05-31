@@ -26,7 +26,7 @@ parent = "Sobre a TUM"
 weight = 1
 [[menu.main]]
 name = "Sobre a TUM"
-weight = 3
+weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
