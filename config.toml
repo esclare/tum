@@ -15,21 +15,22 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
+URL = "elementos"
+name = "Elementos"
+parent = "Sobre a TUM"
+weight = 3
+[[menu.main]]
 URL = "espetaculos"
 name = "Espetáculos e Premios"
 parent = "Sobre a TUM"
 weight = 1
 [[menu.main]]
 name = "Sobre a TUM"
-weight = 4
+weight = 3
 [[menu.main]]
 URL = "fitus"
 name = "Fitus"
 weight = 1
-[[menu.main]]
-URL = "elementos"
-name = "Elementos"
-weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]

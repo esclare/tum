@@ -2,7 +2,7 @@
 title = "Traje"
 [menu.main]
 parent = "Sobre a TUM"
-weight = 3
+weight = 4
 
 +++
 O Traje da Tuna Universitária do Minho, é baseado no traje académico da Universidade do Minho, também conhecido por traje do tricórnio (nome que vem do chapéu que lhe pertence).
