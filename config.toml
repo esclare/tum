@@ -57,6 +57,7 @@ title = "Queres pertencer à Tuna Universitária do Minho? "
 [params.cta.button]
 enable = true
 label = "Contacta-nos"
+link ="/contact"
 [params.cta2]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
