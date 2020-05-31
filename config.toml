@@ -27,10 +27,6 @@ weight = 1
 [[menu.main]]
 name = "Sobre a TUM"
 weight = 3
-[[menu.main]]
-URL = "fitus"
-name = "Fitus"
-weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]

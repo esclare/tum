@@ -188,3 +188,8 @@ fitus:
     Pandeireta:** Tunadão 1998 – Tuna do IPV | **Melhor Bandeira:** Tuna de Medicina
     do Porto."
   image: "/images/a3r8.jpg"
+menu:
+  main:
+    URL: fitus
+    name: FITU Bracara Avgvsta
+    weight: 1
