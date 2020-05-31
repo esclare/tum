@@ -1,5 +1,8 @@
 +++
 title = "Historial"
+[menu.main]
+parent = "Sobre a TUM"
+weight = 2
 
 +++
 A Tuna Universitária do Minho foi fundada no ano de mil novecentos e noventa por vinte jovens trovadores na mui nobre e augusta Cidade de Braga com objectivo de cantar e encantar as belas discípulas de Vénus, bem como manter as velhas e irreverentes tradições académicas. Reconhecidos como alegres, joviais, andarilhos, comedores, bebedores e namoradores desde a nossa estreia nas Monumentais Festas do Enterro da Gata de mil novecentos e noventa, temos sido com grande orgulho a grande Embaixatriz Académica da Universidade do Minho, levando a alegria e deixando a saudade por todas as terras e locais por onde já passámos. A Tuna Universitária do Minho enverga o trajo académico da Universidade do Minho, com pequenas alterações aprovadas pela praxe da academia minhota. Adoptou o uso de meias vermelhas, cor da Universidade do Minho, assim como um «bico» da mesma cor sobre os ombros, que já nos valeram a alcunha de «vermelhinhos», conferindo à Tuna uma identidade muito própria. Em homenagem às raízes da Academia Bracarense, a TUM com a colaboração do maestro Armindo Maia, antigo regente da Tuna do Liceu nacional Sá de Miranda, resgatou alguns dos hinos dessa tuna, alguns dos quais se tornariam também em nossos hinos.
