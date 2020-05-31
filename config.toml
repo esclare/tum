@@ -15,25 +15,25 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
-URL = "tools"
-name = "Espetáculos e Premios"
-parent = "Sobre a TUM"
-weight = 2
-[[menu.main]]
-name = "Sobre a TUM"
-weight = 4
+URL = "historial"
+name = "Historial"
+weight = 1
 [[menu.main]]
 URL = "fitus"
 name = "Fitus"
-weight = 1
+weight = 2
 [[menu.main]]
 URL = "elementos"
 name = "Elementos"
-weight = 2
+weight = 3
+[[menu.main]]
+URL = "tools"
+name = "tools"
+weight = 5
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 3
+weight = 4
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
@@ -86,9 +86,7 @@ preloader = ""
 [params.search]
 enable = false
 [[params.homepageimage]]
-url = "images/home1.jpg"
-[[params.homepageimage]]
-url = "images/home2.jpg"
+url = "/images/56459511_10157103722011322_8193105443782918144_o.jpg"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
