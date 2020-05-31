@@ -18,7 +18,7 @@ weight = 1
 URL = "espetaculos"
 name = "Espetáculos e Premios"
 parent = "Sobre a TUM"
-weight = 2
+weight = 1
 [[menu.main]]
 name = "Sobre a TUM"
 weight = 4
@@ -86,9 +86,7 @@ preloader = ""
 [params.search]
 enable = false
 [[params.homepageimage]]
-url = "images/home1.jpg"
-[[params.homepageimage]]
-url = "images/home2.jpg"
+url = "/images/56459511_10157103722011322_8193105443782918144_o.jpg"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
