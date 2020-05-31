@@ -28,8 +28,8 @@ weight = 1
 name = "Sobre a TUM"
 weight = 2
 [[menu.main]]
-name = "FITU Bracara Avgvsta"
 URL = "fitus"
+name = "FITU Bracara Avgvsta"
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
@@ -84,7 +84,7 @@ preloader = ""
 [params.search]
 enable = false
 [[params.homepageimage]]
-url = "/images/56459511_10157103722011322_8193105443782918144_o.jpg"
+url = "/images/hometum1.jpg"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
