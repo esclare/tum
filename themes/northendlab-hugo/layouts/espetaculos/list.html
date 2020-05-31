@@ -1,0 +1,57 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+	<div class="row justify-content-between">
+	<h2 class="mb-4">{{ .Title | markdownify }}</h2>
+	  </div>
+	  </div>
+	<div class="container">
+	<div class="col-md-8 col-sm-12 mb-5 ">
+  <div class="accordion" id="accordionExample">
+  {{ range first 1 .Site.Data.tools.tools.espetaculos }}
+  <div class="card bg-transparent">
+    <div class="card-head" id="heading{{ .ano }}">
+      <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ .ano }}" aria-expanded="true" aria-controls="collapseOne">
+          {{ .ano | markdownify }}
+      </h2>
+    </div>
+
+    <div id="{{ .ano }}" class="collapse show" aria-labelledby="heading{{ .ano }}" data-parent="#accordionExample">
+      <div class="card-body">
+	  <div class="row">
+	  <div class="col-12">
+        <div class="content">{{ .texto | markdownify }}</div>
+		</div>
+		</div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+  {{ range after 1 .Site.Data.tools.tools.espetaculos }}
+  <div class="card bg-transparent">
+    <div class="card-head" id="heading{{ .ano }}">
+      <h2 class="mb-0 collapsed text-primary" data-toggle="collapse" data-target="#{{ .ano }}" aria-expanded="false" aria-controls="{{ replaceRE "(\\s)" "" .title }}">
+          {{ .ano }}
+      </h2>
+    </div>
+    <div id="{{ .ano }}" class="collapse" aria-labelledby="heading{{ .ano }}" data-parent="#accordionExample">
+      <div class="card-body">
+         <div class="row">
+	  <div class="col-12">
+        <div class="content">{{ .texto | markdownify }}</div>
+		</div>
+		</div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+
+</div>
+</div>
+</div>
+</div>
+
+</section>
+
+{{ end }}

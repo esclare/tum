@@ -15,7 +15,7 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
-URL = "tools"
+URL = "espetaculos"
 name = "Espetáculos e Premios"
 parent = "Sobre a TUM"
 weight = 2
@@ -43,7 +43,7 @@ copyright = "&copy; [Tuna Universitária do Minho](/) All Rights Reserved"
 description = "This is meta description"
 google_analitycs_id = ""
 google_tag_manager = ""
-home = "Home"
+home = "Início"
 logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
