@@ -6,7 +6,7 @@
       <div class="col-lg-5">
         <h2 class="mb-4">{{ .Title | markdownify }}</h2>
         <div class="content">{{ .Content }}</div>
-        <form method="POST"  class="row" data-netlify="true" data-netlify-recaptcha="true">
+        <form method="POST"  class="row" data-netlify="true">
           <div class="col-md-6">
             <input type="text" class="form-control mb-4" placeholder="Nome" name="name" id="name" required>
           </div>
@@ -20,7 +20,6 @@
             <textarea name="message" id="message" class="form-control mb-4" placeholder="Escreva a sua mensagem aqui"
               rows="5"></textarea>
           </div>
-		  <div class="col-12" data-netlify-recaptcha="true"></div>
           <div class="col-12">
             <button class="btn btn-primary btn-block" type="submit">Enviar</button>
           </div>
