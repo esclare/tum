@@ -7,7 +7,7 @@
 	<h2 class="mb-4">{{ .Title | markdownify }}</h2>
 	<div class="accordion" id="accordionExample">
   {{ range first 1 .Site.Data.elementos.elementos.elementos }}
-  <div class="card bg-transparent">
+  <div class="card p-3">
     <div class="card-head" id="heading{{ .title }}">
       <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ .title }}" aria-expanded="true" aria-controls="collapseOne">
           {{ .title | markdownify }}
@@ -19,19 +19,26 @@
 	  <div class="card-body">
 	  <div class="row">
 	  {{ range .elemento}}
-              <div class="col-md-6 col-sm-12 mb-3 d-md-flex">
+	  <div class="col-md-6 col-sm-12 mb-3 d-md-flex">
+			  <div class="row">
+			  <div class="col-3">
       <div class="avatar mb-md-0 mb-4 mx-4">
         <img src="{{ .image | relURL }}" width ="75px" class="rounded z-depth-1" alt="{{ .name | markdownify }}">
       </div>
+	  </div>
+	  <div class="col-9">
       <div class="mx-4">
         <h4 class="font-weight-bold mb-3">{{ .alcunha | markdownify }}</h4>
         <h6 class="font-weight-bold grey-text mb-3">{{ .nome | markdownify }}</h6>
         <h6 class="grey-text">🎸 {{ .instrumento | markdownify }}</h6>
 		<h6 class="grey-text">🎓 {{ .curso | markdownify }}</h6>
         <!-- Facebook-->
-        
       </div>
+	  </div>
+	  </div>
     </div>
+	
+
               {{ end }}
       </div>
 	  </div>
@@ -39,7 +46,7 @@
 	  </div>
   {{ end }}
   {{ range after 1 .Site.Data.elementos.elementos.elementos }}
-  <div class="card bg-transparent">
+  <div class="card p-3">
     <div class="card-head" id="heading{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}">
       <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" aria-expanded="true" aria-controls="collapseOne">
           {{ .title | markdownify }}
@@ -52,17 +59,22 @@
 	  <div class="row">
 	  {{ range .elemento}}
               <div class="col-md-6 col-sm-12 mb-3 d-md-flex">
+			  <div class="row">
+			  <div class="col-3">
       <div class="avatar mb-md-0 mb-4 mx-4">
         <img src="{{ .image | relURL }}" width ="75px" class="rounded z-depth-1" alt="{{ .name | markdownify }}">
       </div>
+	  </div>
+	  <div class="col-9">
       <div class="mx-4">
         <h4 class="font-weight-bold mb-3">{{ .alcunha | markdownify }}</h4>
         <h6 class="font-weight-bold grey-text mb-3">{{ .nome | markdownify }}</h6>
         <h6 class="grey-text">🎸 {{ .instrumento | markdownify }}</h6>
 		<h6 class="grey-text">🎓 {{ .curso | markdownify }}</h6>
         <!-- Facebook-->
-        
       </div>
+	  </div>
+	  </div>
     </div>
               {{ end }}
       </div>

@@ -49,6 +49,7 @@ title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best softwa
 [params.cta]
 description = "Ensaios todas as terças e quinta-feiras por baixo do BA às 21:30"
 enable = true
+icon = "fas fa-running"
 image = "/images/bandeira.gif"
 title = "Queres pertencer à Tuna Universitária do Minho? "
 [params.cta.button]
@@ -57,6 +58,7 @@ label = "Contacta-nos"
 link = "/contact"
 [params.cta2]
 description = "Em breve novidades sobre a próxima edição do festival"
+icon = "fas fa-guitar"
 enable = true
 image = "/images/fitu.jpg"
 title = "FITU Bracara Avgvsta"
@@ -85,12 +87,17 @@ preloader = ""
 enable = false
 [[params.homepageimage]]
 url = "/images/hometum1.jpg"
+[[params.homepageimage]]
+url = "https://tum.pt/img/3727_10151253408061322_788301909_n.jpg"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
+icon = "fab fa-facebook-f"
+link = "https://www.facebook.com/tunauniversitariaminho"
 [[params.social]]
-icon = "ti-instagram"
-link = "#"
+icon = "fab fa-instagram"
+link = "https://www.instagram.com/tunauniversitariadominho"
 [[params.social]]
-icon = "ti-youtube"
-link = "#"
+icon = "fab fa-youtube"
+link = "https://www.youtube.com/channel/UClj56MMgzqLuCQSa4Ege6nQ"
+[[params.social]]
+icon = "fab fa-spotify"
+link = "https://open.spotify.com/artist/7nEqs0isAyEONxQbPrVRgb?autoplay=true&v=A"

@@ -7,7 +7,7 @@
 	<h2 class="mb-4">{{ .Title | markdownify }}</h2>
 	  <div class="accordion" id="accordionExample">
   {{ range first 1 .Site.Data.tools.tools.espetaculos }}
-  <div class="card bg-transparent">
+  <div class="card p-3">
     <div class="card-head" id="heading{{ .ano }}">
       <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ .ano }}" aria-expanded="true" aria-controls="collapseOne">
           {{ .ano | markdownify }}
@@ -26,7 +26,7 @@
   </div>
   {{ end }}
   {{ range after 1 .Site.Data.tools.tools.espetaculos }}
-  <div class="card bg-transparent">
+  <div class="card p-3">
     <div class="card-head" id="heading{{ .ano }}">
       <h2 class="mb-0 collapsed text-primary" data-toggle="collapse" data-target="#{{ .ano }}" aria-expanded="false" aria-controls="{{ replaceRE "(\\s)" "" .title }}">
           {{ .ano }}
