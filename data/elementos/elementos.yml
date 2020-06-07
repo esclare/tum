@@ -17,10 +17,26 @@ elementos:
     alcunha: Veloso
     curso: Engenharia Civil
     instrumento: Bandoloncelo
-- title: "1ª Geração - 1991"
+- title: 1ª Geração - 1991
   elemento:
+  - nome: João Paulo da Costa
+    image: "/images/babalu.jpg"
+    alcunha: Babalu
+    curso: Engenharia de Sistemas e Informática
+    instrumento: Pandeireta
   - nome: David Moreira
-    image: "/images/tuninho.jpg"
+    image: "/images/brinco.jpg"
     alcunha: Brincolhão
     curso: Química - Ramo Controlo Qualidade
     instrumento: Braguesa
+- title: 2ª Geração - 1992
+  elemento:
+  - nome: Nuno Lucas
+    image: "/images/radar.jpg"
+    alcunha: Radar
+    curso: Engenharia de Sistemas e Informática
+    instrumento: Viola
+  - nome: Agostinho
+    image: "/images/pepe.jpg"
+    alcunha: Pepe Legal
+    instrumento: Viola
