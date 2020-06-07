@@ -31,6 +31,10 @@ elementos:
     instrumento: Braguesa
 - title: 2ª Geração - 1992
   elemento:
+  - nome: Francisco Barreira
+    image: "/images/tuninho.jpg"
+    alcunha: Topas
+    instrumento: Viola
   - nome: Nuno Lucas
     image: "/images/radar.jpg"
     alcunha: Radar
@@ -40,3 +44,15 @@ elementos:
     image: "/images/pepe.jpg"
     alcunha: Pepe Legal
     instrumento: Viola
+- title: 3ª Geração - 1993
+  elemento:
+  - nome: Rodrigo Machado
+    image: "/images/andrade.jpg"
+    alcunha: Andrade
+    curso: Engenharia Mecânica
+    instrumento: Viola
+  - image: "/images/besunta.jpg"
+    alcunha: Besunta
+    nome: Cláudio Silva
+    instrumento: Acordeão
+    curso: Engenharia Civil
