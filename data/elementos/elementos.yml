@@ -46,6 +46,11 @@ elementos:
     instrumento: Viola
 - title: 3ª Geração - 1993
   elemento:
+  - alcunha: Big Foot
+    nome: Carlos Silva
+    image: "/images/bigfoot.jpg"
+    curso: Engenharia Mecânica
+    instrumento: Acordeão
   - nome: Rodrigo Machado
     image: "/images/andrade.jpg"
     alcunha: Andrade
