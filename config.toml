@@ -1,4 +1,4 @@
-baseURL = "https://tum.netlify.app/"
+baseURL = "https://tum.pt"
 disqusShortname = ""
 languageCode = "pt-pt"
 paginate = "5"
@@ -58,8 +58,8 @@ label = "Contacta-nos"
 link = "/contact"
 [params.cta2]
 description = "Em breve novidades sobre a próxima edição do festival"
-icon = "fas fa-guitar"
 enable = true
+icon = "fas fa-guitar"
 image = "/images/fitu.jpg"
 title = "FITU Bracara Avgvsta"
 [params.cta2.button]
