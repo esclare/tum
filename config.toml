@@ -87,8 +87,6 @@ preloader = ""
 enable = false
 [[params.homepageimage]]
 url = "/images/hometum1.jpg"
-[[params.homepageimage]]
-url = "https://tum.pt/img/3727_10151253408061322_788301909_n.jpg"
 [[params.social]]
 icon = "fab fa-facebook-f"
 link = "https://www.facebook.com/tunauniversitariaminho"
