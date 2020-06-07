@@ -13,15 +13,15 @@ fields:
     label: elemento
     fields:
     - type: text
+      name: alcunha
+      label: alcunha
+    - type: text
       name: nome
       label: Nome
     - type: file
       name: image
       label: image
       default: "/images/tuninho.jpg"
-    - type: text
-      name: alcunha
-      label: alcunha
     - name: curso
       type: text
       config:
