@@ -443,8 +443,6 @@ elementos:
     nome: Rui Martins
     curso: Engenharia Electrónica
     instrumento: Guitarra / Braguesa
-- title: 17ª Geração - 2006
-  elemento:
   - image: "/images/shaggy.jpg"
     alcunha: Shaggy
     nome: Nuno Moreira
@@ -455,8 +453,6 @@ elementos:
     nome: Pedro Guerra
     curso: Engenharia Civil
     instrumento: Violino
-- title: 18ª Geração - 2007
-  elemento:
   - image: "/images/toite.jpg"
     alcunha: Toité
     nome: Ricardo Mota
@@ -482,8 +478,6 @@ elementos:
     nome: Hélder Dias
     curso: Informática de Gestão
     instrumento: Bandolim
-- title: 19ª Geração - 2008
-  elemento:
   - image: "/images/nada.jpg"
     alcunha: Nem por isso
     nome: Luís Filipe
@@ -493,7 +487,9 @@ elementos:
     alcunha: Nilton
     nome: Almerindo Vieira
     curso: Optometria e Ciências da Visão
-    instrumento: Guitarra/Bandolim
+    instrumento: Guitarra/Bandolim    
+- title: 19ª Geração - 2008
+  elemento:
   - image: "/images/troce.jpg"
     alcunha: Destroce
     nome: Francisco Cunha
