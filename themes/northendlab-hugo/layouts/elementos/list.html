@@ -18,7 +18,7 @@
       
 	  <div class="card-body">
 	  <div class="row">
-	  {{ range .elemento}}
+	  {{ range sort .elemento "alcunha" "asc"}}
 	  <div class="col-md-6 col-sm-12 mb-3">
 			  <div class="row">
 			  <div class="col-3">
@@ -57,7 +57,7 @@
       
 	  <div class="card-body">
 	  <div class="row">
-	  {{ range .elemento}}
+	  {{ range sort .elemento "alcunha" "asc"}}
               <div class="col-md-6 col-sm-12 mb-3">
 			  <div class="row">
 			  <div class="col-3">
