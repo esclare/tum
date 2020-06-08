@@ -21,7 +21,7 @@ parent = "Sobre a TUM"
 weight = 3
 [[menu.main]]
 URL = "espetaculos"
-name = "Espetáculos e Premios"
+name = "Espetáculos e Prémios"
 parent = "Sobre a TUM"
 weight = 1
 [[menu.main]]
