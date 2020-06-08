@@ -521,13 +521,13 @@ elementos:
     nome: Sérgio Brito
     curso: Informática de Gestão
     instrumento: Viola
-- title: 21ª Geração - 2010
-  elemento:
   - image: "/images/telha.jpg"
     alcunha: Telha
     nome: Guilherme Barbosa
     curso: Engenharia de Sistemas e Informática
-    instrumento: Contrabaixo
+    instrumento: Contrabaixo    
+- title: 21ª Geração - 2010
+  elemento:
   - image: "/images/parvas.jpg"
     alcunha: Parvalhoti
     nome: Diogo Mota
