@@ -483,13 +483,13 @@ elementos:
     nome: Luís Filipe
     curso: Engenharia Civil
     instrumento: Cavaquinho
+- title: 17ª Geração - 2006
+  elemento:
   - image: "/images/nilton.jpg"
     alcunha: Nilton
     nome: Almerindo Vieira
     curso: Optometria e Ciências da Visão
     instrumento: Guitarra/Bandolim    
-- title: 17ª Geração - 2006
-  elemento:
   - image: "/images/troce.jpg"
     alcunha: Destroce
     nome: Francisco Cunha
