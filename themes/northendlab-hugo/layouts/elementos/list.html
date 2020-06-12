@@ -1,5 +1,6 @@
 {{ define "main" }}
 
+{{ $page := .Site.GetPage "/elementos" }}
 <section class="section">
   <div class="container">
 	 <div class="row justify-content-between">
@@ -15,7 +16,7 @@
     </div>
 
     <div id="{{ .title }}" class="collapse show" aria-labelledby="heading{{ .title }}" data-parent="#accordionExample">
-      
+
 	  <div class="card-body">
 	  <div class="row">
 	  {{ range sort .elemento "alcunha" "asc"}}
@@ -23,7 +24,21 @@
 			  <div class="row">
 			  <div class="col-3">
       <div class="avatar mb-md-0 mb-4 mx-4">
-        <img src="{{ .image | relURL }}?nf_resize=fit&w=75" width ="75px" class="rounded z-depth-1" alt="{{ .name | markdownify }}">
+        {{ $name := .name }}
+        {{ with .image }}
+        {{ $file := $page.Resources.GetMatch . }}
+        {{ with $file }}
+        {{ $original := $file }}
+        {{ $scratch := newScratch }}
+        {{ if lt $original.Width 75 }}
+        <img src="{{ $original.RelPermalink }}" width ="{{ $original.Width }}px" class="rounded z-depth-1" alt="{{ $name | markdownify }}">
+        {{ else }}
+        {{ $scratch.Set "image" ($original.Resize "75x") }}
+        {{ $image := $scratch.Get "image" }}
+        <img src="{{ $image.RelPermalink }}" width ="75px" class="rounded z-depth-1" alt="{{ $name | markdownify }}">
+        {{ end }}
+        {{ end }}
+        {{ end }}
       </div>
 	  </div>
 	  <div class="col-9">
@@ -37,7 +52,7 @@
 	  </div>
 	  </div>
     </div>
-	
+
 
               {{ end }}
       </div>
@@ -54,7 +69,7 @@
     </div>
 
     <div id="{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" class="collapse" aria-labelledby="heading{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" data-parent="#accordionExample">
-      
+
 	  <div class="card-body">
 	  <div class="row">
 	  {{ range sort .elemento "alcunha" "asc"}}
@@ -62,7 +77,21 @@
 			  <div class="row">
 			  <div class="col-3">
       <div class="avatar mb-md-0 mb-4 mx-4">
-        <img src="{{ .image | relURL }}?nf_resize=fit&w=75" width ="75px" class="rounded z-depth-1" alt="{{ .name | markdownify }}">
+        {{ $name := .name }}
+        {{ with .image }}
+        {{ $file := $page.Resources.GetMatch . }}
+        {{ with $file }}
+        {{ $original := $file }}
+        {{ $scratch := newScratch }}
+        {{ if lt $original.Width 75 }}
+        <img src="{{ $original.RelPermalink }}" width ="{{ $original.Width }}px" class="rounded z-depth-1" alt="{{ $name | markdownify }}">
+        {{ else }}
+        {{ $scratch.Set "image" ($original.Resize "75x") }}
+        {{ $image := $scratch.Get "image" }}
+        <img src="{{ $image.RelPermalink }}" width ="75px" class="rounded z-depth-1" alt="{{ $name | markdownify }}">
+        {{ end }}
+        {{ end }}
+        {{ end }}
       </div>
 	  </div>
 	  <div class="col-9">
