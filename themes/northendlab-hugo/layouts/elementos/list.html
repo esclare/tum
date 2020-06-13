@@ -77,11 +77,21 @@
 			  <div class="row">
 			  <div class="col-3">
       <div class="avatar mb-md-0 mb-4 mx-4">
-	{{ with .image }}
-    {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-    {{ $resized := $imageResource.Fill "75x" }}
-    <img src="{{ $resized.RelPermalink }}" />
-{{ end }}
+	{{ $name := .nome }}
+        {{ with .image }}
+        {{ $file := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+        {{ with $file }}
+        {{ $original := $file }}
+        {{ $scratch := newScratch }}
+        {{ if lt $original.Width 75 }}
+        <img src="{{ $original.RelPermalink }}" width ="{{ $original.Width }}px" class="rounded z-depth-1" alt="{{ $name }}">
+        {{ else }}
+        {{ $scratch.Set "image" ($original.Resize "75x") }}
+        {{ $image := $scratch.Get "image" }}
+        <img src="{{ $image.RelPermalink }}" class="rounded z-depth-1" alt="{{ $name }}">
+        {{ end }}
+        {{ end }}
+        {{ end }}
       </div>
 	  </div>
 	  <div class="col-9">
