@@ -1,0 +1,1100 @@
+%YAML 1.1
+---
+# arcumpt_tum.elementos
+-
+  ID: 1
+  geracao: 1
+  foto: "pereira.jpg"
+  alcunha: "Anjo"
+  nome: "Paulo Pereira"
+  curso: "Engenharia Mecânica"
+  instrumento: "Pandeireta"
+-
+  ID: 2
+  geracao: 1
+  foto: "bitorino.jpg"
+  alcunha: "Bitorino"
+  nome: "Vítor Júlio da Silva e Sá"
+  curso: ""
+  instrumento: "Bandolim"
+-
+  ID: 3
+  geracao: 1
+  foto: "caldas.jpg"
+  alcunha: "Caldas"
+  nome: "Paulo Jorge da Silva Trindade"
+  curso: "Engenharia Têxtil"
+  instrumento: "Castanholas"
+-
+  ID: 4
+  geracao: 1
+  foto: "chorao.jpg"
+  alcunha: "Chorão"
+  nome: "Rui Filipe Mendonça dos Santos Lucas"
+  curso: "Química - Ramo Controlo Qualidade"
+  instrumento: "Cavaquinho"
+-
+  ID: 5
+  geracao: 1
+  foto: "nada.jpg"
+  alcunha: "Dinis"
+  nome: "José Dinis de Araújo Carvalho"
+  curso: "Engenharia de Produção"
+  instrumento: "Viola"
+-
+  ID: 6
+  geracao: 1
+  foto: "eduardo.jpg"
+  alcunha: "Adufe"
+  nome: "Manuel Eduardo Cardoso Ferreira"
+  curso: "Engenharia Metalomecânica"
+  instrumento: "Bandolim"
+-
+  ID: 7
+  geracao: 1
+  foto: "matador.jpg"
+  alcunha: "El Matador"
+  nome: "António Rui Lourenço Martinho"
+  curso: "Informática de Gestão"
+  instrumento: "Viola"
+-
+  ID: 8
+  geracao: 1
+  foto: "espanhol.jpg"
+  alcunha: "Espanhol"
+  nome: "Rui Manuel Rodrigues Couto"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Cavaquinho"
+-
+  ID: 9
+  geracao: 1
+  foto: "facadas.jpg"
+  alcunha: "Facadas"
+  nome: "Luís Pedro Pereira Correia"
+  curso: ""
+  instrumento: "Viola"
+-
+  ID: 10
+  geracao: 1
+  foto: "fresco.jpg"
+  alcunha: "Fresco"
+  nome: "José Manuel Belo Fresco"
+  curso: ""
+  instrumento: "Acordeão"
+-
+  ID: 11
+  geracao: 1
+  foto: "gildo.jpg"
+  alcunha: "Gildo"
+  nome: "Hermenegildo Manuel Godinho da Cruz Guimarães"
+  curso: "Português via ensino"
+  instrumento: "Pandeireta"
+-
+  ID: 12
+  geracao: 1
+  foto: "joaozinho.jpg"
+  alcunha: "Joãozinho"
+  nome: "João Paulo Marques Tavares Correia"
+  curso: ""
+  instrumento: "Viola-Baixo"
+-
+  ID: 13
+  geracao: 1
+  foto: "kiko.jpg"
+  alcunha: "Cotonete"
+  nome: "Francisco Xavier Gomes de Oliveira"
+  curso: "Engenharia Mecânica"
+  instrumento: "Pandeireta"
+-
+  ID: 14
+  geracao: 1
+  foto: "louro.jpg"
+  alcunha: "Micro Louro"
+  nome: "Jorge Filipe Martins de Sousa Louro"
+  curso: "Engenharia Mecânica"
+  instrumento: "Bandeira"
+-
+  ID: 15
+  geracao: 1
+  foto: "miguel.jpg"
+  alcunha: "Miguel"
+  nome: "José Miguel Braga Vieira"
+  curso: ""
+  instrumento: "Pandeireta"
+-
+  ID: 16
+  geracao: 1
+  foto: "zelino.jpg"
+  alcunha: "Órgão Máximo"
+  nome: "José Lino Miranda Ribeiro Gomes"
+  curso: "Relações Internacionais"
+  instrumento: "Braguesa"
+-
+  ID: 17
+  geracao: 1
+  foto: "paganini.jpg"
+  alcunha: "Paganini"
+  nome: "Alexandre Miguel Durão Fernandes"
+  curso: ""
+  instrumento: "Violino"
+-
+  ID: 18
+  geracao: 1
+  foto: "raul.jpg"
+  alcunha: "Raul"
+  nome: "Raul Manuel Esteves de Sousa Fangueiro"
+  curso: ""
+  instrumento: "Bandolim"
+-
+  ID: 19
+  geracao: 1
+  foto: "nada.jpg"
+  alcunha: "Ricardo"
+  nome: "Ricardo Jorge Alves da Silva"
+  curso: ""
+  instrumento: "Vibrofone"
+-
+  ID: 20
+  geracao: 1
+  foto: "santiago.jpg"
+  alcunha: "Santo"
+  nome: "João Manuel de Oliveira Santiago"
+  curso: "Química - Ramo Controlo Qualidade"
+  instrumento: "Braguesa"
+-
+  ID: 21
+  geracao: 1
+  foto: "toucas.jpg"
+  alcunha: "Toucas"
+  nome: "Filipe Manuel da Costa Martins"
+  curso: ""
+  instrumento: "Viola"
+-
+  ID: 22
+  geracao: 1
+  foto: "veloso.jpg"
+  alcunha: "Veloso"
+  nome: "Luís Alexandre Machado Veloso Gomes"
+  curso: "Engenharia Civil"
+  instrumento: "Bandoloncelo"
+-
+  ID: 23
+  geracao: 1
+  foto: "xicor.jpg"
+  alcunha: "Xico R."
+  nome: "Francisco Miguel da Silva Rocha"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Contrabaixo"
+-
+  ID: 24
+  geracao: 1
+  foto: "rola.jpg"
+  alcunha: "Rola"
+  nome: "José Augusto C. Ferreira da Cruz"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Bandolim"
+-
+  ID: 25
+  geracao: 1
+  foto: "zeto.jpg"
+  alcunha: "Zé Tó"
+  nome: "José António Gomes de Araújo"
+  curso: ""
+  instrumento: "Bandeira"
+-
+  ID: 26
+  geracao: 2
+  foto: "lopo.jpg"
+  alcunha: "Lopo Ferroz"
+  nome: "Lopo António Araújo Rocha S. de Menezes"
+  curso: ""
+  instrumento: "Viola"
+-
+  ID: 27
+  geracao: 2
+  foto: "brinco.jpg"
+  alcunha: "Brincolhão"
+  nome: "David Alexandre da Costa Moreira"
+  curso: "Química - Ramo Controlo Qualidade"
+  instrumento: "Braguesa"
+-
+  ID: 28
+  geracao: 3
+  foto: "babalu.jpg"
+  alcunha: "Babalu"
+  nome: "João Paulo Gomes da Costa"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Pandeireta"
+-
+  ID: 29
+  geracao: 3
+  foto: "pepe.jpg"
+  alcunha: "Pepe Legal"
+  nome: "Agostinho"
+  curso: ""
+  instrumento: "Viola"
+-
+  ID: 30
+  geracao: 3
+  foto: "radar.jpg"
+  alcunha: "Radar"
+  nome: "Nuno Tiago Marques da Silva Ferrão Lucas"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Viola"
+-
+  ID: 31
+  geracao: 3
+  foto: "nada.jpg"
+  alcunha: "Topas"
+  nome: "Francisco Manuel da Grade Barreira"
+  curso: ""
+  instrumento: "Viola"
+-
+  ID: 32
+  geracao: 4
+  foto: "andrade.jpg"
+  alcunha: "Andrade"
+  nome: "Rodrigo Duarte Faria de Sousa Machado"
+  curso: "Engenharia Mecânica"
+  instrumento: "Viola"
+-
+  ID: 33
+  geracao: 4
+  foto: "besunta.jpg"
+  alcunha: "Besunta"
+  nome: "Cláudio Jorge Veiga da Silva"
+  curso: "Engenharia Civil"
+  instrumento: "Acordeão"
+-
+  ID: 34
+  geracao: 4
+  foto: "big-foot.jpg"
+  alcunha: "Big Foot"
+  nome: "Carlos Nelson Alves Corsino da Silva"
+  curso: "Engenharia Mecânica"
+  instrumento: "Acordeão"
+-
+  ID: 35
+  geracao: 4
+  foto: "cebola.jpg"
+  alcunha: "Cebola"
+  nome: "José Rodrigo Carvalho Faria Lima"
+  curso: "Engenharia Civil"
+  instrumento: "Bandolim"
+-
+  ID: 36
+  geracao: 4
+  foto: "clister.jpg"
+  alcunha: "Clister"
+  nome: "Filipe Ramalhosa Cunha"
+  curso: "Relações Internacionais"
+  instrumento: "Bandolim"
+-
+  ID: 37
+  geracao: 4
+  foto: "dracula.jpg"
+  alcunha: "Drácula"
+  nome: "Silvino Jorge de Macedo Dias Rodrigues"
+  curso: "Engenharia Têxtil"
+  instrumento: "Viola, Cavaquinho"
+-
+  ID: 38
+  geracao: 4
+  foto: "far%F3fias.jpg"
+  alcunha: "Farófias"
+  nome: "Luís Miguel Forte Campos Ferreira"
+  curso: "Engenharia Mecânica"
+  instrumento: "Viola"
+-
+  ID: 39
+  geracao: 4
+  foto: "rodinhas.jpg"
+  alcunha: "Rodinhas"
+  nome: "Eduardo Filipe Campos Mendes Ferreira"
+  curso: "Administração Pública"
+  instrumento: "Viola"
+-
+  ID: 40
+  geracao: 5
+  foto: "et.jpg"
+  alcunha: "E.T."
+  nome: "Nuno Miguel Afonso Carvalho de Moura"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Viola"
+-
+  ID: 41
+  geracao: 5
+  foto: "seco.jpg"
+  alcunha: "Seco"
+  nome: "Paulo Jorge da Rocha Soares Antunes"
+  curso: "Engenharia de Polímeros"
+  instrumento: "Braguesa"
+-
+  ID: 42
+  geracao: 6
+  foto: "brok.jpg"
+  alcunha: "Bróculo"
+  nome: "Rui Pedro de Sousa Faria"
+  curso: "Engenharia de Polímeros"
+  instrumento: "Bandolim"
+-
+  ID: 43
+  geracao: 6
+  foto: "canario.jpg"
+  alcunha: "Canário"
+  nome: "João Ferreira Carvalho Castro Nunes"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Viola"
+-
+  ID: 44
+  geracao: 7
+  foto: "botas.jpg"
+  alcunha: "Botinhas"
+  nome: "Nuno Luís Rego Ribeiro"
+  curso: "Engenharia Mecânica"
+  instrumento: "Pandeireta"
+-
+  ID: 45
+  geracao: 7
+  foto: "castrado.jpg"
+  alcunha: "Castrado"
+  nome: "Miguel Costa Parente Pires Moreira"
+  curso: "Gestão de Empresas"
+  instrumento: "Bandola"
+-
+  ID: 46
+  geracao: 7
+  foto: "Flint.jpg"
+  alcunha: "Flinstone"
+  nome: "Nuno Filipe de Moura Rodrigues Ribeiro"
+  curso: "Engenharia de Polímeros"
+  instrumento: "Contrabaixo"
+-
+  ID: 47
+  geracao: 7
+  foto: "sobrio.jpg"
+  alcunha: "Sóbrio"
+  nome: "Nuno Miguel Freitas Monteiro do Valle Fernandes"
+  curso: "Gestão de Empresas"
+  instrumento: "Bandolim"
+-
+  ID: 48
+  geracao: 8
+  foto: "69.jpg"
+  alcunha: "69 (Sixty-Nine)"
+  nome: "Emídio Meireles"
+  curso: "Relações Internacionais"
+  instrumento: "Pandeireta"
+-
+  ID: 49
+  geracao: 8
+  foto: "asdrubal.jpg"
+  alcunha: "Asdrúbal"
+  nome: "Gonçalo Nuno Trindade Redondo"
+  curso: "Engenharia Mecânica"
+  instrumento: "Contrabaixo, Viola"
+-
+  ID: 50
+  geracao: 8
+  foto: "bola.jpg"
+  alcunha: "Bola"
+  nome: "António Paulo Magalhães Alves"
+  curso: "Engenharia de Produção"
+  instrumento: "Contrabaixo"
+-
+  ID: 51
+  geracao: 8
+  foto: "bufo.jpg"
+  alcunha: "Bufo"
+  nome: "José Vítor Lopes F. Cerqueira"
+  curso: "Engenharia Mecânica"
+  instrumento: "Bandolim"
+-
+  ID: 52
+  geracao: 8
+  foto: "fritz.jpg"
+  alcunha: "Fritz"
+  nome: "Rogério Paulo Pereira Nascimento"
+  curso: "Optometria e Ciências da Visão"
+  instrumento: "Bandolim"
+-
+  ID: 53
+  geracao: 8
+  foto: "guterres.jpg"
+  alcunha: "Guterres"
+  nome: "Luís Miguel Gonçalves Vilar Afonso"
+  curso: "Engenharia Electrónica Industrial"
+  instrumento: "Bandolim"
+-
+  ID: 54
+  geracao: 8
+  foto: "jordan.jpg"
+  alcunha: "Jordan"
+  nome: "Eduardo Nuno Xavier Gomes"
+  curso: "Engenharia Electrónica Industrial"
+  instrumento: "Viola"
+-
+  ID: 55
+  geracao: 8
+  foto: "passaro.jpg"
+  alcunha: "Pássaro"
+  nome: "Pedro Jorge Melo da Silva Vieira"
+  curso: "Turismo"
+  instrumento: "Viola"
+-
+  ID: 56
+  geracao: 8
+  foto: "pele.jpg"
+  alcunha: "Pelé"
+  nome: "André Maria Leite Mendes de Sousa"
+  curso: "Engenharia Civil"
+  instrumento: "Viola"
+-
+  ID: 57
+  geracao: 8
+  foto: "semina.jpg"
+  alcunha: "Semina"
+  nome: "Carlos Manuel de Sousa Santos"
+  curso: "Psicologia"
+  instrumento: "Bandeira"
+-
+  ID: 58
+  geracao: 8
+  foto: "tampas.jpg"
+  alcunha: "Tampinhas"
+  nome: "Nuno Miguel Fernandes Cerqueira"
+  curso: "Comunicação Social"
+  instrumento: "Braguesa/Viola"
+-
+  ID: 59
+  geracao: 8
+  foto: "banessa.jpg"
+  alcunha: "Banessa"
+  nome: "Luís Miguel Brandão Nogueira"
+  curso: "Engenharia Civil"
+  instrumento: "Viola"
+-
+  ID: 60
+  geracao: 9
+  foto: "cacioli.jpg"
+  alcunha: "Caccioli"
+  nome: "Fernando Mendes"
+  curso: "Engenharia Sistemas e Informática"
+  instrumento: "Viola"
+-
+  ID: 61
+  geracao: 9
+  foto: "cunhado2.jpg"
+  alcunha: "Cunhado"
+  nome: "André Queirós"
+  curso: "Optometria e Ciências da Visão"
+  instrumento: "Cavaquinho"
+-
+  ID: 62
+  geracao: 9
+  foto: "pilas.jpg"
+  alcunha: "Pilas"
+  nome: "António Pedro Silva"
+  curso: "Matemática via ensino"
+  instrumento: "Viola"
+-
+  ID: 63
+  geracao: 9
+  foto: "fetxa.jpg"
+  alcunha: "Fetxa-Roda"
+  nome: "Ricardo"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Acordeão"
+-
+  ID: 64
+  geracao: 9
+  foto: "lili.jpg"
+  alcunha: "Lili"
+  nome: "Rui Mamede"
+  curso: "Gestão de empresas"
+  instrumento: "Pandeireta"
+-
+  ID: 65
+  geracao: 10
+  foto: "pelvis.jpg"
+  alcunha: "Pélvis"
+  nome: "António José Constantino"
+  curso: "Psicologia"
+  instrumento: "Viola"
+-
+  ID: 66
+  geracao: 10
+  foto: "zebedeu.jpg"
+  alcunha: "Zebedeu"
+  nome: "Filipe Rocha"
+  curso: "Português/Francês via ensino"
+  instrumento: "Braguesa"
+-
+  ID: 67
+  geracao: 11
+  foto: "tikes.jpg"
+  alcunha: "Tikes"
+  nome: "Luís André Rocha"
+  curso: "Enfermagem"
+  instrumento: "Viola"
+-
+  ID: 68
+  geracao: 11
+  foto: "magestic.jpg"
+  alcunha: "Majestic"
+  nome: "Óscar Cílio Ferreira"
+  curso: "Gestão de Empresas"
+  instrumento: "Acordeão"
+-
+  ID: 69
+  geracao: 11
+  foto: "prota.jpg"
+  alcunha: "Protagonista"
+  nome: "Luís Monteiro"
+  curso: "Gestão de Empresas"
+  instrumento: "Bandolim"
+-
+  ID: 70
+  geracao: 11
+  foto: "peido.jpg"
+  alcunha: "Peido"
+  nome: "Nuno Rodrigues"
+  curso: "Engenharia Civil"
+  instrumento: "Viola"
+-
+  ID: 71
+  geracao: 12
+  foto: "barejona.jpg"
+  alcunha: "Barejona"
+  nome: "Simão Silva"
+  curso: "Psicologia"
+  instrumento: "Viola"
+-
+  ID: 72
+  geracao: 12
+  foto: "dalton.jpg"
+  alcunha: "Dalton"
+  nome: "Paulo Martins"
+  curso: "Psicologia"
+  instrumento: "Cavaquinho"
+-
+  ID: 73
+  geracao: 13
+  foto: "lulu.jpg"
+  alcunha: "Lulu"
+  nome: "Alexandre Passos"
+  curso: "Português-Francês"
+  instrumento: "Bandolim"
+-
+  ID: 74
+  geracao: 13
+  foto: "paxa.jpg"
+  alcunha: "Paxax'algo"
+  nome: "José Fernandes"
+  curso: "Engenharia de Sistemas"
+  instrumento: "Pandeireta"
+-
+  ID: 75
+  geracao: 13
+  foto: "esclarecido.jpg"
+  alcunha: "Esclarecido"
+  nome: "Nuno Pinto"
+  curso: "Gestão"
+  instrumento: "Contrabaixo"
+-
+  ID: 76
+  geracao: 14
+  foto: "reizinho.jpg"
+  alcunha: "Reizinho"
+  nome: "Filipe Costa"
+  curso: "Engenharia Civil"
+  instrumento: "Guitarra"
+-
+  ID: 77
+  geracao: 15
+  foto: "kuaresma.jpg"
+  alcunha: "Kuaresma"
+  nome: "Alexandre Lopes"
+  curso: "Engenharia Civil"
+  instrumento: "Pandeireta"
+-
+  ID: 78
+  geracao: 15
+  foto: "gandhi.jpg"
+  alcunha: "Gandhi"
+  nome: "Pedro Miguel Antunes de Oliveira"
+  curso: "Geografia e Planeamento"
+  instrumento: "Pandeireta"
+-
+  ID: 79
+  geracao: 15
+  foto: "priudo.jpg"
+  alcunha: "Príudo"
+  nome: "Álvaro Borges"
+  curso: "Optometria e Ciências da Visão"
+  instrumento: "Acordeão"
+-
+  ID: 80
+  geracao: 15
+  foto: "gracinda.jpg"
+  alcunha: "Gracinda"
+  nome: "Leandro Barbosa Ferreira"
+  curso: "Geografia e Planeamento"
+  instrumento: "Guitarra"
+-
+  ID: 81
+  geracao: 16
+  foto: "visconde.jpg"
+  alcunha: "Visconde"
+  nome: "António Pedro Sousa"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Bandolim"
+-
+  ID: 82
+  geracao: 16
+  foto: "gulliver.jpg"
+  alcunha: "Gulliver"
+  nome: "Rui Martins"
+  curso: "Engenharia Electrónica"
+  instrumento: "Guitarra / Braguesa"
+-
+  ID: 83
+  geracao: 16
+  foto: "shaggy.jpg"
+  alcunha: "Shaggy"
+  nome: "Nuno Moreira"
+  curso: "Electrónica Industrial"
+  instrumento: "Acordeão"
+-
+  ID: 84
+  geracao: 16
+  foto: "xamuca.jpg"
+  alcunha: "Chamuça"
+  nome: "Pedro Guerra"
+  curso: "Engenharia Civil"
+  instrumento: "Violino"
+-
+  ID: 85
+  geracao: 16
+  foto: "toite.jpg"
+  alcunha: "Toité"
+  nome: "Ricardo Mota"
+  curso: "Engenharia Mecânica"
+  instrumento: "Cavaquinho"
+-
+  ID: 86
+  geracao: 16
+  foto: "latoya.jpg"
+  alcunha: "Latoya"
+  nome: "Nuno Freire"
+  curso: "Arquitectura"
+  instrumento: "Guitarra"
+-
+  ID: 87
+  geracao: 16
+  foto: "tom.jpg"
+  alcunha: "Tom Sawyer"
+  nome: "João Oliveira"
+  curso: "Engenharia de Comunicações"
+  instrumento: "Guitarra"
+-
+  ID: 88
+  geracao: 16
+  foto: "amora.jpg"
+  alcunha: "Amora"
+  nome: "Bruno Lages"
+  curso: "Biologia Aplicada"
+  instrumento: "Viola de Arco"
+-
+  ID: 89
+  geracao: 16
+  foto: "kaga.jpg"
+  alcunha: "Caga"
+  nome: "Hélder Dias"
+  curso: "Informática de Gestão"
+  instrumento: "Bandolim"
+-
+  ID: 90
+  geracao: 1
+  foto: "nada.jpg"
+  alcunha: "Samaritana"
+  nome: "Lúcio"
+  curso: "Engenharia Mecânica"
+  instrumento: "Pandeireta"
+-
+  ID: 91
+  geracao: 16
+  foto: "nada.jpg"
+  alcunha: "Nem por isso"
+  nome: "Luís Filipe"
+  curso: "Engenharia Civil"
+  instrumento: "Cavaquinho"
+-
+  ID: 92
+  geracao: 17
+  foto: "nilton.jpg"
+  alcunha: "Nilton"
+  nome: "Almerindo Vieira"
+  curso: "Optometria e Ciências da Visão"
+  instrumento: "Guitarra/Bandolim"
+-
+  ID: 93
+  geracao: 17
+  foto: "troce.jpg"
+  alcunha: "Destroce"
+  nome: "Francisco Cunha"
+  curso: "Ciências da Computação"
+  instrumento: "Pandeireta"
+-
+  ID: 94
+  geracao: 17
+  foto: "tropa.jpg"
+  alcunha: "Tropa"
+  nome: "Amândio Silva"
+  curso: "Electrónica Industrial"
+  instrumento: "Pandeireta"
+-
+  ID: 95
+  geracao: 18
+  foto: "dadinho.jpg"
+  alcunha: "Dadinho"
+  nome: "Eduardo Teixeira"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Cavaquinho"
+-
+  ID: 96
+  geracao: 18
+  foto: "preta.jpg"
+  alcunha: "Preta"
+  nome: "Ricardo Agra"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Pandeireta"
+-
+  ID: 97
+  geracao: 18
+  foto: "cabra.jpg"
+  alcunha: "Cabra"
+  nome: "Sérgio Brito"
+  curso: "Informática de Gestão"
+  instrumento: "Viola"
+-
+  ID: 98
+  geracao: 18
+  foto: "telha.jpg"
+  alcunha: "Telha"
+  nome: "Guilherme Barbosa"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Contrabaixo"
+-
+  ID: 99
+  geracao: 19
+  foto: "parvas.jpg"
+  alcunha: "Parvalhoti"
+  nome: "Diogo Mota"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Acordeão"
+-
+  ID: 100
+  geracao: 19
+  foto: "smeagol.jpg"
+  alcunha: "Smeagol"
+  nome: "Jorge Russo"
+  curso: "Engenharia de Sistemas e Informática"
+  instrumento: "Bandeira"
+-
+  ID: 101
+  geracao: 19
+  foto: "gps.jpg"
+  alcunha: "GPS"
+  nome: "Tiago Taxa"
+  curso: "Psicologia"
+  instrumento: "Bandolim"
+-
+  ID: 102
+  geracao: 19
+  foto: "masgajas.jpg"
+  alcunha: "Masgajas"
+  nome: "Nuno Lima"
+  curso: "Engenharia Biomédica"
+  instrumento: "Guitarra"
+-
+  ID: 103
+  geracao: 19
+  foto: "tiopaulo.jpg"
+  alcunha: "Tio Paulo"
+  nome: "Tiago Salgado"
+  curso: "Administração Pública"
+  instrumento: "Bandeira"
+-
+  ID: 104
+  geracao: 20
+  foto: "pibeas.jpg"
+  alcunha: "Pibeas"
+  nome: "Mário Gomes"
+  curso: "Matemática e Ciências da Computação"
+  instrumento: "Trombone"
+-
+  ID: 105
+  geracao: 20
+  foto: "mosto.jpg"
+  alcunha: "Mosto"
+  nome: "Leandro Cepa"
+  curso: "Engenharia Biológica"
+  instrumento: "Guitarra, Pandeireta"
+-
+  ID: 106
+  geracao: 20
+  foto: "catarina.jpg"
+  alcunha: "Catarina"
+  nome: "João Matos"
+  curso: "Engenharia Informática"
+  instrumento: "Bandolim"
+-
+  ID: 107
+  geracao: 21
+  foto: "disketeu.jpg"
+  alcunha: "Disketeu"
+  nome: "Rafael Pinto"
+  curso: "Engenharia Informática"
+  instrumento: "Pandeireta"
+-
+  ID: 108
+  geracao: 21
+  foto: "gargas.jpg"
+  alcunha: "Gargas"
+  nome: "Bruno Azevedo"
+  curso: "Engenharia Informática"
+  instrumento: "Acordeão, Trompete"
+-
+  ID: 109
+  geracao: 21
+  foto: "xiclas.jpg"
+  alcunha: "Jantares"
+  nome: "Rui Vieira"
+  curso: "Tecnologias e sistemas de informação"
+  instrumento: "Bandolim"
+-
+  ID: 110
+  geracao: 22
+  foto: "bisonte.jpg"
+  alcunha: "Bisonte"
+  nome: "Diogo Leite"
+  curso: "Biologia Aplicada/Direito"
+  instrumento: "Guitarra"
+-
+  ID: 111
+  geracao: 22
+  foto: "gago.jpg"
+  alcunha: "Gago"
+  nome: "Fábio Ramalho"
+  curso: "Bioquímica"
+  instrumento: "Acordeão"
+-
+  ID: 112
+  geracao: 22
+  foto: "50cent.jpg"
+  alcunha: "50 Cent"
+  nome: "Vítor Costa"
+  curso: "Engenharia Informática"
+  instrumento: "Guitarra, Flauta"
+-
+  ID: 113
+  geracao: 22
+  foto: "travolta.jpg"
+  alcunha: "Travolta"
+  nome: "Fábio Pinto"
+  curso: "Optometria"
+  instrumento: "Bandeira"
+-
+  ID: 114
+  geracao: 23
+  foto: "capela.jpg"
+  alcunha: "Capela"
+  nome: "José Gomes"
+  curso: "Bioquímica"
+  instrumento: "Bandolim"
+-
+  ID: 115
+  geracao: 23
+  foto: "fura.jpg"
+  alcunha: "Fura"
+  nome: "Carlos Pereira"
+  curso: "Engenharia Biomédica"
+  instrumento: "Guitarra"
+-
+  ID: 116
+  geracao: 24
+  foto: "emocionado.jpg"
+  alcunha: "Emocionado"
+  nome: "Jorge Correia"
+  curso: "Psicologia"
+  instrumento: "Braguesa"
+-
+  ID: 117
+  geracao: 24
+  foto: "sheamus.jpg"
+  alcunha: "Sheamus"
+  nome: "David de Brito"
+  curso: "Marketing"
+  instrumento: "Contrabaixo"
+-
+  ID: 118
+  geracao: 24
+  foto: "mou.jpg"
+  alcunha: "Mou"
+  nome: "João Barbosa"
+  curso: "Electrónica"
+  instrumento: "Guitarra"
+-
+  ID: 120
+  geracao: 24
+  foto: "bitoques.jpg"
+  alcunha: "Bitoques"
+  nome: "João Cardoso"
+  curso: "Biologia Aplicada"
+  instrumento: "Bandolim"
+-
+  ID: 119
+  geracao: 24
+  foto: "ceguinho.jpg"
+  alcunha: "Ceguinho"
+  nome: "Telmo Sousa"
+  curso: "Música"
+  instrumento: "Guitarra, Trompete"
+-
+  ID: 121
+  geracao: 25
+  foto: "expulso.jpg"
+  alcunha: "Expulso"
+  nome: "Hugo Vaz"
+  curso: "Filosofia"
+  instrumento: "Bandeira"
+-
+  ID: 122
+  geracao: 25
+  foto: "siestas.jpg"
+  alcunha: "Siestas"
+  nome: "André Pepe"
+  curso: "Engenharia Mecânica"
+  instrumento: "Guitarra"
+-
+  ID: 123
+  geracao: 25
+  foto: "cagamelo.jpg"
+  alcunha: "Cagamelo"
+  nome: "Rui Guimarães"
+  curso: "Física"
+  instrumento: "Contrabaixo"
+-
+  ID: 124
+  geracao: 25
+  foto: "egas.jpg"
+  alcunha: "Egas"
+  nome: "João Costa"
+  curso: "Medicina"
+  instrumento: "Guitarra"
+-
+  ID: 125
+  geracao: 25
+  foto: "becas.jpg"
+  alcunha: "Becas"
+  nome: "João Costa"
+  curso: "Engenharia Civil"
+  instrumento: "Bandolim, Guitarra"
+-
+  ID: 126
+  geracao: 25
+  foto: "wally.jpg"
+  alcunha: "Wally"
+  nome: "Rui Afonso"
+  curso: "Música"
+  instrumento: "Percussão"
+-
+  ID: 127
+  geracao: 26
+  foto: "chicha.jpg"
+  alcunha: "Chicha"
+  nome: "Miguel Ferreira"
+  curso: "Música"
+  instrumento: "Clarinete"
+-
+  ID: 128
+  geracao: 26
+  foto: "tixa.jpg"
+  alcunha: "Tixa"
+  nome: "Daniel Cerqueira"
+  curso: "Bioquímica"
+  instrumento: "Pandeireta"
+-
+  ID: 129
+  geracao: 26
+  foto: "loreal.jpg"
+  alcunha: "Loreal"
+  nome: "Daniel Carvalho"
+  curso: "Engenharia Informática"
+  instrumento: "Bandolim"
+-
+  ID: 130
+  geracao: 26
+  foto: "balhulha.jpg"
+  alcunha: "Balhulha"
+  nome: "Luis Chaves"
+  curso: "Música"
+  instrumento: "Cavaquinho / Bombardino"
+-
+  ID: 131
+  geracao: 26
+  foto: "borrinhas.jpg"
+  alcunha: "Borrinhas"
+  nome: "João Sequeira"
+  curso: "Bioquímica"
+  instrumento: "Violino"
+-
+  ID: 132
+  geracao: 27
+  foto: "vandamme.jpg"
+  alcunha: "VanDamme"
+  nome: "Pedro Duarte"
+  curso: "Engenharia Informática"
+  instrumento: "Pandeireta"
+-
+  ID: 133
+  geracao: 27
+  foto: "paodelov.jpg"
+  alcunha: "Pãode Lov"
+  nome: "Ivan Gomes"
+  curso: "Biologia Aplicada"
+  instrumento: "Braguesa"
+-
+  ID: 134
+  geracao: 27
+  foto: "benigni.jpg"
+  alcunha: "Benigni"
+  nome: "Alexandre Ramos"
+  curso: "MIEGSI"
+  instrumento: "Guitarra"
+-
+  ID: 137
+  geracao: 27
+  foto: "cuequinha.jpg"
+  alcunha: "Cuequinha"
+  nome: "Pedro Matos"
+  curso: "Música"
+  instrumento: "Pandeireta/Trombone"
+-
+  ID: 136
+  geracao: 27
+  foto: "pelim.jpg"
+  alcunha: "Pelim"
+  nome: "Rui Brito"
+  curso: "Engenharia Informática"
+  instrumento: "Bandolim"
+-
+  ID: 138
+  geracao: 27
+  foto: "critico.jpg"
+  alcunha: "Crítico"
+  nome: "André Vieira"
+  curso: "Optometria e Ciências da Visão"
+  instrumento: "Guitarra"
+...
