@@ -9,6 +9,10 @@ menu:
     weight: 3
 
 ---
-Magister: Pão-de-Lov (
+Magister - Ivan Gomes 
 
-Director:
+Telefone: (+351) 910 439 236
+
+Director - Pedro Pinto
+
+Telefone: (+351) 915 410 003 
