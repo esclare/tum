@@ -6,16 +6,16 @@
 	 <div class="row justify-content-between">
 	 <div class="col-12">
 	<h2 class="mb-4">{{ .Title | markdownify }}</h2>
-	<div class="accordion" id="accordionExample">
+	<div class="accordion" id="accordion">
   {{ range first 1 .Site.Data.elementos.elementos.elementos }}
   <div class="card p-3">
-    <div class="card-head" id="heading{{ .title }}">
-      <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ .title }}" aria-expanded="true" aria-controls="collapseOne">
+    <div class="card-head" id="heading{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}">
+      <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" aria-expanded="true" aria-controls="collapse{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}">
           {{ .title | markdownify }}
       </h2>
     </div>
 
-    <div id="{{ .title }}" class="collapse show" aria-labelledby="heading{{ .title }}" data-parent="#accordionExample">
+    <div id="{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" class="collapse show" aria-labelledby="heading{{ .title }}" data-parent="#accordion">
 
 	  <div class="card-body">
 	  <div class="row">
@@ -24,18 +24,18 @@
 			  <div class="row">
 			  <div class="col-3">
       <div class="avatar mb-md-0 mb-4 mx-4">
-        {{ $name := .nome }}
+        {{ $alcunha := .alcunha }}
         {{ with .image }}
-        {{ $file := $page.Resources.GetMatch . }}
+        {{ $file := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
         {{ with $file }}
         {{ $original := $file }}
         {{ $scratch := newScratch }}
         {{ if lt $original.Width 75 }}
-        <img src="{{ $original.RelPermalink }}" width ="{{ $original.Width }}px" class="rounded z-depth-1" alt="{{ $name }}">
+        <img src="{{ $original.RelPermalink }}" width ="{{ $original.Width }}px" class="rounded z-depth-1" alt="{{ $alcunha }}">
         {{ else }}
         {{ $scratch.Set "image" ($original.Resize "75x") }}
         {{ $image := $scratch.Get "image" }}
-        <img src="{{ $image.RelPermalink }}" width ="75px" class="rounded z-depth-1" alt="{{ $name }}">
+        <img src="{{ $image.RelPermalink }}" class="rounded z-depth-1" alt="{{ $alcunha }}">
         {{ end }}
         {{ end }}
         {{ end }}
@@ -45,8 +45,8 @@
       <div class="mx-4">
         <h4 class="font-weight-bold mb-3">{{ .alcunha | markdownify }}</h4>
         <h6 class="font-weight-bold grey-text mb-3">{{ .nome | markdownify }}</h6>
-        <h6 class="grey-text">🎸 {{ .instrumento | markdownify }}</h6>
-		<h6 class="grey-text">🎓 {{ .curso | markdownify }}</h6>
+        <h6 class="grey-text"><i class="fas fa-music" style="color:#E8505B;"></i> {{ .instrumento | markdownify }}</h6>
+		<h6 class="grey-text"><i class="fas fa-graduation-cap" style="color:#E8505B;"></i> {{ .curso | markdownify }}</h6>
         <!-- Facebook-->
       </div>
 	  </div>
@@ -63,12 +63,12 @@
   {{ range after 1 .Site.Data.elementos.elementos.elementos }}
   <div class="card p-3">
     <div class="card-head" id="heading{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}">
-      <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" aria-expanded="true" aria-controls="collapseOne">
+      <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" aria-expanded="true" aria-controls="collapse{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}">
           {{ .title | markdownify }}
       </h2>
     </div>
 
-    <div id="{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" class="collapse" aria-labelledby="heading{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" data-parent="#accordionExample">
+    <div id="{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" class="collapse" aria-labelledby="heading{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" data-parent="#accordion">
 
 	  <div class="card-body">
 	  <div class="row">
@@ -77,18 +77,18 @@
 			  <div class="row">
 			  <div class="col-3">
       <div class="avatar mb-md-0 mb-4 mx-4">
-	{{ $name := .nome }}
+		{{ $alcunha := .alcunha }}
         {{ with .image }}
         {{ $file := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
         {{ with $file }}
         {{ $original := $file }}
         {{ $scratch := newScratch }}
         {{ if lt $original.Width 75 }}
-        <img src="{{ $original.RelPermalink }}" width ="{{ $original.Width }}px" class="rounded z-depth-1" alt="{{ $name }}">
+        <img src="{{ $original.RelPermalink }}" width ="75px" class="rounded z-depth-1" alt="{{ $alcunha }}">
         {{ else }}
         {{ $scratch.Set "image" ($original.Resize "75x") }}
         {{ $image := $scratch.Get "image" }}
-        <img src="{{ $image.RelPermalink }}" class="rounded z-depth-1" alt="{{ $name }}">
+        <img src="{{ $image.RelPermalink }}" width ="75px" class="rounded z-depth-1" alt="{{ $alcunha }}">
         {{ end }}
         {{ end }}
         {{ end }}
@@ -98,8 +98,8 @@
       <div class="mx-4">
         <h4 class="font-weight-bold mb-3">{{ .alcunha | markdownify }}</h4>
         <h6 class="font-weight-bold grey-text mb-3">{{ .nome | markdownify }}</h6>
-        <h6 class="grey-text">🎸 {{ .instrumento | markdownify }}</h6>
-		<h6 class="grey-text">🎓 {{ .curso | markdownify }}</h6>
+        <h6 class="grey-text"><i class="fas fa-music" style="color:#E8505B;"></i> {{ .instrumento | markdownify }}</h6>
+		<h6 class="grey-text"><i class="fas fa-graduation-cap" style="color:#E8505B;"></i> {{ .curso | markdownify }}</h6>
         <!-- Facebook-->
       </div>
 	  </div>
@@ -111,6 +111,8 @@
 	  </div>
 	  </div>
   {{ end }}
+</div>
+  </div>
 </div>
 </div>
 </div>

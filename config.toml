@@ -87,6 +87,7 @@ preloader = ""
 enable = false
 [[params.homepageimage]]
 url = "/images/tum1.jpg"
+descricao = "E o Gerês me carregou a alma"
 [[params.social]]
 icon = "fab fa-facebook-f"
 link = "https://www.facebook.com/tunauniversitariaminho"
