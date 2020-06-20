@@ -19,13 +19,13 @@ sections:
   templates:
   - post
 - type: directory
-  path: data/espetaculos
+  path: data/tools
   label: Espetáculos
   create: documents
   match: "**/*"
   new_doc_ext: yml
   templates:
-  - espetaculos
+  - tools
 - type: directory
   path: data/elementos
   label: Elementos
