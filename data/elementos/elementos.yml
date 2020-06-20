@@ -735,3 +735,69 @@ elementos:
     nome: André Vieira
     curso: Optometria e Ciências da Visão
     instrumento: Guitarra
+- title: 28ª Geração - 2017
+  elemento:
+  - alcunha: Mofos
+    nome: Rui Oliveira
+    image: "/uploads/mofos.png"
+    curso: Engenharia Industrial
+    instrumento: Bandolim, Contrabaixo
+  - alcunha: MaisValia
+    nome: Daniel Domingues
+    image: "/uploads/maisvalia.png"
+    curso: Design do Produto
+    instrumento: Estandarte
+- title: 29ª Geração - 2018
+  elemento:
+  - alcunha: Miadas
+    nome: Gonçalo Camaz
+    image: "/uploads/miadas.jpg"
+    curso: Engenharia Informática
+    instrumento: Acordeão, Saxofone
+  - alcunha: Botafogo
+    nome: José Alves
+    image: "/uploads/botafogo.png"
+    curso: Engenharia Biológica
+    instrumento: Acordeão
+  - alcunha: Vizinho
+    nome: Rui Teixeira
+    image: "/uploads/vizinho.png"
+    curso: Psicologia
+    instrumento: Bandolim
+  - alcunha: Nelce
+    nome: Pedro Saldarriaga
+    image: "/uploads/nelce.jpg"
+    curso: Biologia e Geologia
+    instrumento: Bandolim
+  - alcunha: Ziamantino
+    nome: Miguel Magalhães
+    image: "/uploads/ziamantino.png"
+    curso: Engenharia Informática
+    instrumento: Cavaquinho
+  - alcunha: Cabecinhas
+    nome: José Medeiros
+    image: "/uploads/cabecinhas.png"
+    curso: Engenharia Mecânica
+    instrumento: Guitarra
+- title: 30ª Geração - 2019
+  elemento:
+  - alcunha: Sentinela
+    nome: Pedro Pinto
+    image: "/uploads/sentinela.jpg"
+    curso: Engenharia Informática
+    instrumento: Pandeireta
+  - alcunha: Parcido
+    nome: Henrique Pereira
+    image: "/uploads/parcido.jpg"
+    curso: Engenharia Informática
+    instrumento: Braguesa
+  - alcunha: Tojos
+    nome: Guilherme Guerreiro
+    image: "/uploads/tojos.jpg"
+    curso: Engenharia Informática
+    instrumento: Cavaquinho
+  - alcunha: Calcetas
+    nome: José Bastos
+    image: "/uploads/calcetas.png"
+    curso: Engenharia Informática
+    instrumento: Percussão, Trompete
