@@ -9,10 +9,8 @@ menu:
     weight: 3
 
 ---
-Magister - Ivan Gomes 
-
+Magister - Ivan Gomes  
 Telefone: (+351) 910 439 236
 
-Director - Pedro Pinto
-
-Telefone: (+351) 915 410 003 
+Director - Pedro Pinto  
+Telefone: (+351) 915 410 003
