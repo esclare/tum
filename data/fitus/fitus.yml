@@ -1,121 +1,14 @@
 ---
 fitus:
-- title: I FITU Bracara Avgvsta (10 e 11 de Maio de 1991)
-  texto: "**Melhor Tuna** Tuna de Direito de Málaga"
-  image: "/images/1fitu2.jpg"
-- title: II FITU Bracara Avgvsta (8 e 9 de Maio de 1992)
-  texto: "**Melhor Tuna**: Tuna de Ciências de Granada."
-  image: "/images/2fitu1.jpg"
-- title: III FITU Bracara Avgvsta (7 e 8 de Maio de 1993)
-  texto: "**Melhor Tuna**: Tuna de Farmácia de Sevilha | **Segunda Melhor Tuna**:
-    Tuna de Direito de Oviedo | **Terceira Melhor Tuna:** Tuna Académica da Univ.
-    Lusíada do Porto | **Melhor Interpretação Musical:** Tuna de Medicina de Valladolid
-    | **Melhor “Passa Calles”:** Tuna de Direito de Oviedo | **Tuna Mais Original:**
-    Tuna de Direito de Oviedo | **Melhor Solista:** Tuna de Farmácia de Sevilha |
-    **Melhor Pandeireta:** Tuna Académica da Univ. Lusíada do Porto | **Melhor Bandeira:**
-    Tuna de Farmácia de Sevilha | **Melhor Tema Original:** Tuna de Direito de Oviedo."
-  image: "/images/3fitu.jpg"
-- title: IV FITU Bracara Avgvsta (6 e 7 de Maio de 1994)
-  texto: "**Melhor Tuna:** Tuna de Medicina de Múrcia | **Segunda Melhor Tuna:** Tuna
-    de Farmácia de Sevilha | **Terceira Melhor Tuna:** Tuna Académica da Univ. Lusíada
-    do Porto | **Melhor Instrumental:** Tuna de Medicina de Múrcia | **Melhor “Passa
-    Calles”:** Tuna de Direito de Salamanca | **Tuna Mais Original:** anTUNiA | **Melhor
-    Solista:** Tuna de Ciências de Granada | **Melhor Pandeireta:** Tuna Académica
-    da Univ. Lusíada do Porto | **Melhor Bandeira:** Tuna de Farmácia de Sevilha."
-  image: "/images/4fitu.jpg"
-- title: V FITU Bracara Avgvsta (5 e 6 de Maio de 1995)
-  texto: "**Melhor Tuna:** Tuna de Segreles de Porto Rico | **Segunda Melhor Tuna:**
-    Tuna Universitária de Segóvia | **Terceira Melhor Tuna:** Tuna Académica da Univ.
-    Lusíada do Porto | **Melhor Instrumental:** Tuna Universitária de Segóvia | **Melhor
-    “Passa Calles”:** Tuna Universitária de Almeria | **Tuna Mais Original:** Tuna
-    Universitária do Instituto Superior Técnico | **Melhor Solista:** Tuna de Segreles
-    de Porto Rico | **Melhor Pandeireta:** Tuna Académica da Univ. Lusíada do Porto
-    | **Melhor Bandeira:** Tuna Universitária de Almeria."
-  image: "/images/5fitu.jpg"
-- title: VI FITU Bracara Avgvsta (3 e 4 de Maio de 1996)
-  texto: "**Melhor Tuna:** Tuna de Segreles de Porto Rico | **Segunda Melhor Tuna:**
-    Tuna Académica da Univ. Lusíada do Porto | **Terceira Melhor Tuna:** Tuna Universitária
-    de Almeria | **Melhor Instrumental:** Tuna de Segreles de Porto Rico | **Melhor
-    “Passa Calles”:** Tuna de Direito de Oviedo | **Tuna Mais Original:** Tuna Académica
-    da Univ. Lusíada do Porto | **Melhor Solista:** Tuna de Segreles de Porto Rico
-    | **Melhor Pandeireta:** Tuna de Direito de Oviedo | **Melhor Bandeira:** Tuna
-    Universitária de Almeria | **Melhor Tema Original:** Tuna Académica da Univ. Lusíada
+- title: XXIII FITU Bracara Avgvsta (19 e 20 de Abril de 2013)
+  texto: "**Melhor Tuna:** Tuna de Medicina do Porto | **Segunda Melhor Tuna:** Estudantina
+    Universitária de Coimbra | **Terceira Melhor Tuna:** Tunadão 1998 – Tuna do IPV
+    | **Melhor Instrumental:** Estudantina Universitária de Coimbra | **Melhor “Passa
+    Calles”:** Tuna de Medicina de Badajoz | **Tuna Mais Tuna:** Tunadão 1998 – Tuna
+    do IPV | **Melhor Solista:** Tuna Universidade Católica Portuguesa – Porto | **Melhor
+    Pandeireta:** Tunadão 1998 – Tuna do IPV | **Melhor Bandeira:** Tuna de Medicina
     do Porto."
-  image: "/images/6fitu.jpg"
-- title: VII FITU Bracara Avgvsta (9 e 10 de Maio de 1997)
-  texto: "**Melhor Tuna:** Tuna Univ. do Instituto Superior Técnico | **Segunda Melhor
-    Tuna:** Tuna de Direito de Oviedo | **Terceira Melhor Tuna:** Estudantina Universitária
-    de Lisboa | **Melhor Instrumental:** Tuna Univ. do Instituto Superior Técnico
-    | **Melhor “Passa Calles”:** Tuna de Direito de Oviedo | **Tuna Mais Original:**
-    Tuna Univ. do Instituto Superior Técnico | **Melhor Solista:** Tuna Univ. do Instituto
-    Superior Técnico | **Melhor Pandeireta:** Tuna Académica da Univ. Lusíada do Porto
-    | **Melhor Bandeira:** Tuna Universitária de Almeria | **Melhor Tema Original:**
-    Tuna Académica da Univ. Lusíada do Porto."
-  image: "/images/7fitu.jpg"
-- title: VIII FITU Bracara Avgvsta (1 e 2 de Maio de 1998)
-  texto: "**Melhor Tuna:** Tuna de Direito de Oviedo | **Segunda Melhor Tuna:** Tuna
-    Univ. do Instituto Superior Técnico | **Terceira Melhor Tuna:** Tuna de Veterinária
-    de Lugo | **Melhor Instrumental:** Estudantina Universitária de Lisboa | **Melhor
-    “Passa Calles”:** Tuna de Direito de Oviedo | **Tuna Mais Original:** Tuna Univ.
-    do Instituto Superior Técnico | **Melhor Solista:** Tuna de Medicina de Valência
-    | **Melhor Pandeireta:** Tuna Académica da Univ. Lusíada do Porto | **Melhor Bandeira:**
-    Tuna de Engenheiros Industriais de Gijon | **Melhor Tema Original:** Tuna de Veterinária
-    de Lugo | **Melhor Bebedor de Cerveja:** Tuna Universitária do IST de Lisboa."
-  image: "/images/8fitu.jpg"
-- title: IX FITU Bracara Avgvsta (7 e 8 de Maio de 1999)
-  texto: "**Melhor Tuna:** Tuna de Medicina do Porto | **Segunda Melhor Tuna:** Magna
-    Tuna Cartola | **Terceira Melhor Tuna:** Tuna Universitária do Distrito de Jaén
-    | **Melhor Instrumental:** Tuna de Medicina do Porto | **Melhor “Passa Calles”:**
-    Tuna de Direito de Oviedo | **Tuna Mais Original:** Magna Tuna Cartola | **Melhor
-    Solista:** Tuna de Medicina do Porto | **Melhor Pandeireta:** Tuna Académica da
-    Univ. Lusíada do Porto | **Melhor Bandeira:** Estudantina Universitária de Lisboa
-    | **Melhor Tema Original:** Tuna de Direito de Oviedo | **Melhor Bebedor de Cerveja:**
-    Magna Tuna Cartola."
-  image: "/images/9fitu.jpg"
-- title: X FITU Bracara Avgvsta (5 e 6 de Maio de 2000)
-  texto: "**Melhor Tuna:** Tuna Universitária do Porto | **Segunda Melhor Tuna:**
-    Tuna de Medicina do Porto | **Terceira Melhor Tuna:** Tuna Universitária do IST
-    de Lisboa | **Melhor Instrumental:** Tuna Académica da Univ. Lusíada do Porto
-    | **Melhor “Passa Calles”:** (Não atribuído) | **Tuna Mais Original:** Tuna Universitária
-    do Porto | **Melhor Solista:** Tuna de Medicina do Porto | **Melhor Pandeireta:**
-    Tuna de Medicina do Porto | **Melhor Bandeira:** Tuna de Direito de Oviedo | **Melhor
-    Tema Original:** (Não atribuído)."
-  image: "/images/10fitu.jpg"
-- title: XI FITU Bracara Avgvsta (4 e 5 de Maio de 2001)
-  texto: "**Melhor Tuna:** Estudantina Universitária de Lisboa | **Segunda Melhor
-    Tuna:** Tuna de Medicina do Porto | **Terceira Melhor Tuna:** Tuna Universitária
-    de Aveiro | **Melhor Instrumental:** Tuna de Medicina do Porto | **Melhor “Passa
-    Calles”:** Tuna de Direito de Oviedo | **Tuna Mais Original:** Tuna Universitária
-    de Aveiro | **Melhor Solista:** Tuna de Medicina do Porto | **Melhor Pandeireta:**
-    Estudantina Universitária de Lisboa | **Melhor Bandeira:** Estudantina Universitária
-    de Lisboa | **Tuna Mais Divertida:** Tuna Universitária de Ferrol."
-  image: "/images/11fitu-1.jpg"
-- title: XII FITU Bracara Avgvsta (3 e 4 de Maio de 2002)
-  texto: "**Melhor Tuna:** Tuna de Segreles | **Segunda Melhor Tuna:** Tuna de Medicina
-    do Porto | **Terceira Melhor Tuna:** Estudantina Univ. de Lisboa | **Melhor Instrumental:**
-    Tuna de Segreles | **Melhor “Passa Calles”:** Tuna Univ. de Ferrol | **Tuna Mais
-    Original:** Tuna de Derecho de Albacete | **Melhor Solista:** Tuna de Segreles
-    | **Melhor Pandeireta:** Tuna de Medicina do Porto | **Melhor Bandeira:** Estudantina
-    Univ. de Lisboa."
-  image: "/images/12fitu-1.jpg"
-- title: XIII FITU Bracara Avgvsta (2 e 3 de Maio de 2003)
-  texto: "**Melhor Tuna:** Tuna da Universidade Católica Portuguesa – Porto | **Segunda
-    Melhor Tuna:** Tuna Académica de Lisboa | **Terceira Melhor Tuna:** Tuna de Medicina
-    do Porto | **Melhor Instrumental:** Tuna da Universidade Católica Portuguesa –
-    Porto | **Melhor “Passa Calles”:** Tuna de Derecho de Albacete | **Tuna Mais Original:**
-    Tuna de Derecho de Albacete | **Melhor Solista:** Tuna de Medicina do Porto |
-    **Melhor Pandeireta:** Tuna da Universidade Católica Portuguesa – Porto | **Melhor
-    Bandeira:** Tuna da Universidade Católica Portuguesa – Porto."
-  image: "/images/13fitu-1.jpg"
-- title: XIV FITU Bracara Avgvsta (30 de Abril e 1 de Maio de 2004)
-  texto: "**Melhor Tuna:** Tuna Universitária de Aveiro | **Segunda Melhor Tuna:**
-    Tuna do Instituto Superior Técnico de Lisboa – TUIST | **Terceira Melhor Tuna:**
-    Tuna Académica de Lisboa | **Melhor Instrumental:** Estudantina Universitária
-    de Coimbra | **Melhor “Passa Calles”:** Tuna de Derecho de Oviedo | **Tuna Mais
-    Original:** Tuna do Instituto Superior Técnico de Lisboa – TUIST | **Melhor Solista:**
-    Tuna Académica de Lisboa | **Melhor Pandeireta:** Tuna do Instituto Superior Técnico
-    de Lisboa – TUIST | **Melhor Bandeira:** Tuna Universitária de Aveiro."
-  image: "/images/14fitu.jpg"
+  image: "/images/a3r8.jpg"
 - title: XV FITU Bracara Avgvsta (23 de Abril de 2005)
   texto: "**Melhor Tuna:** Tuna Universitária de Aveiro | **Segunda Melhor Tuna:**
     Tuna Académica de Lisboa | **Terceira Melhor Tuna:** Tuna de Bardos de Puerto
@@ -142,6 +35,60 @@ fitus:
     Solista:** Tuna Académica de Lisboa | **Melhor Pandeireta:** Tuna do Instituto
     Superior Técnico de Lisboa – TUIST | **Melhor Bandeira:** Tuna Académica de Lisboa."
   image: "/images/17fitu.jpg"
+- title: XIV FITU Bracara Avgvsta (30 de Abril e 1 de Maio de 2004)
+  texto: "**Melhor Tuna:** Tuna Universitária de Aveiro | **Segunda Melhor Tuna:**
+    Tuna do Instituto Superior Técnico de Lisboa – TUIST | **Terceira Melhor Tuna:**
+    Tuna Académica de Lisboa | **Melhor Instrumental:** Estudantina Universitária
+    de Coimbra | **Melhor “Passa Calles”:** Tuna de Derecho de Oviedo | **Tuna Mais
+    Original:** Tuna do Instituto Superior Técnico de Lisboa – TUIST | **Melhor Solista:**
+    Tuna Académica de Lisboa | **Melhor Pandeireta:** Tuna do Instituto Superior Técnico
+    de Lisboa – TUIST | **Melhor Bandeira:** Tuna Universitária de Aveiro."
+  image: "/images/14fitu.jpg"
+- title: XIII FITU Bracara Avgvsta (2 e 3 de Maio de 2003)
+  texto: "**Melhor Tuna:** Tuna da Universidade Católica Portuguesa – Porto | **Segunda
+    Melhor Tuna:** Tuna Académica de Lisboa | **Terceira Melhor Tuna:** Tuna de Medicina
+    do Porto | **Melhor Instrumental:** Tuna da Universidade Católica Portuguesa –
+    Porto | **Melhor “Passa Calles”:** Tuna de Derecho de Albacete | **Tuna Mais Original:**
+    Tuna de Derecho de Albacete | **Melhor Solista:** Tuna de Medicina do Porto |
+    **Melhor Pandeireta:** Tuna da Universidade Católica Portuguesa – Porto | **Melhor
+    Bandeira:** Tuna da Universidade Católica Portuguesa – Porto."
+  image: "/images/13fitu-1.jpg"
+- title: XII FITU Bracara Avgvsta (3 e 4 de Maio de 2002)
+  texto: "**Melhor Tuna:** Tuna de Segreles | **Segunda Melhor Tuna:** Tuna de Medicina
+    do Porto | **Terceira Melhor Tuna:** Estudantina Univ. de Lisboa | **Melhor Instrumental:**
+    Tuna de Segreles | **Melhor “Passa Calles”:** Tuna Univ. de Ferrol | **Tuna Mais
+    Original:** Tuna de Derecho de Albacete | **Melhor Solista:** Tuna de Segreles
+    | **Melhor Pandeireta:** Tuna de Medicina do Porto | **Melhor Bandeira:** Estudantina
+    Univ. de Lisboa."
+  image: "/images/12fitu-1.jpg"
+- title: XXII FITU Bracara Avgvsta (25 e 26 de Maio de 2012)
+  texto: "**Melhor Tuna:** Tuna do Instituto Superior Técnico | **Segunda Melhor Tuna:**
+    Tuna de Medicina da Universidade de Coimbra | **Terceira Melhor Tuna:** TunAmérica
+    Universitária de Puerto Rico | **Melhor Instrumental:** TunAmérica Universitária
+    de Puerto Rico | **Melhor “Passa Calles”:** Tuna da Universidade Católica Portuguesa
+    – Porto | **Tuna Mais Tuna:** Tuna de Medicina da Universidade de Coimbra | **Melhor
+    Solista:** Tuna Universitária do Instituto Superior Técnico | **Melhor Pandeireta:**
+    Tuna da Universidade Católica Portuguesa – Porto | **Melhor Bandeira:** Tuna de
+    Medicina da Universidade de Coimbra."
+  image: "/images/u78q.jpg"
+- title: XI FITU Bracara Avgvsta (4 e 5 de Maio de 2001)
+  texto: "**Melhor Tuna:** Estudantina Universitária de Lisboa | **Segunda Melhor
+    Tuna:** Tuna de Medicina do Porto | **Terceira Melhor Tuna:** Tuna Universitária
+    de Aveiro | **Melhor Instrumental:** Tuna de Medicina do Porto | **Melhor “Passa
+    Calles”:** Tuna de Direito de Oviedo | **Tuna Mais Original:** Tuna Universitária
+    de Aveiro | **Melhor Solista:** Tuna de Medicina do Porto | **Melhor Pandeireta:**
+    Estudantina Universitária de Lisboa | **Melhor Bandeira:** Estudantina Universitária
+    de Lisboa | **Tuna Mais Divertida:** Tuna Universitária de Ferrol."
+  image: "/images/11fitu-1.jpg"
+- title: X FITU Bracara Avgvsta (5 e 6 de Maio de 2000)
+  texto: "**Melhor Tuna:** Tuna Universitária do Porto | **Segunda Melhor Tuna:**
+    Tuna de Medicina do Porto | **Terceira Melhor Tuna:** Tuna Universitária do IST
+    de Lisboa | **Melhor Instrumental:** Tuna Académica da Univ. Lusíada do Porto
+    | **Melhor “Passa Calles”:** (Não atribuído) | **Tuna Mais Original:** Tuna Universitária
+    do Porto | **Melhor Solista:** Tuna de Medicina do Porto | **Melhor Pandeireta:**
+    Tuna de Medicina do Porto | **Melhor Bandeira:** Tuna de Direito de Oviedo | **Melhor
+    Tema Original:** (Não atribuído)."
+  image: "/images/10fitu.jpg"
 - title: XVIII FITU Bracara Avgvsta (2 e 3 de Maio de 2008)
   texto: "**Melhor Tuna:** Tuna Académica de Lisboa | **Segunda Melhor Tuna:** Tuna
     Universitária de Aveiro | **Terceira Melhor Tuna:** Tuna da Universidade Católica
@@ -169,25 +116,78 @@ fitus:
     Católica Portuguesa – Porto | **Melhor Bandeira:** Copituna d’Oppidana – Tuna
     Académica da Guarda."
   image: "/images/cartaz_divulgacao-150x150.jpg"
-- title: XXII FITU Bracara Avgvsta (25 e 26 de Maio de 2012)
-  texto: "**Melhor Tuna:** Tuna do Instituto Superior Técnico | **Segunda Melhor Tuna:**
-    Tuna de Medicina da Universidade de Coimbra | **Terceira Melhor Tuna:** TunAmérica
-    Universitária de Puerto Rico | **Melhor Instrumental:** TunAmérica Universitária
-    de Puerto Rico | **Melhor “Passa Calles”:** Tuna da Universidade Católica Portuguesa
-    – Porto | **Tuna Mais Tuna:** Tuna de Medicina da Universidade de Coimbra | **Melhor
-    Solista:** Tuna Universitária do Instituto Superior Técnico | **Melhor Pandeireta:**
-    Tuna da Universidade Católica Portuguesa – Porto | **Melhor Bandeira:** Tuna de
-    Medicina da Universidade de Coimbra."
-  image: "/images/u78q.jpg"
-- title: XXIII FITU Bracara Avgvsta (19 e 20 de Abril de 2013)
-  texto: "**Melhor Tuna:** Tuna de Medicina do Porto | **Segunda Melhor Tuna:** Estudantina
-    Universitária de Coimbra | **Terceira Melhor Tuna:** Tunadão 1998 – Tuna do IPV
-    | **Melhor Instrumental:** Estudantina Universitária de Coimbra | **Melhor “Passa
-    Calles”:** Tuna de Medicina de Badajoz | **Tuna Mais Tuna:** Tunadão 1998 – Tuna
-    do IPV | **Melhor Solista:** Tuna Universidade Católica Portuguesa – Porto | **Melhor
-    Pandeireta:** Tunadão 1998 – Tuna do IPV | **Melhor Bandeira:** Tuna de Medicina
+- title: IX FITU Bracara Avgvsta (7 e 8 de Maio de 1999)
+  texto: "**Melhor Tuna:** Tuna de Medicina do Porto | **Segunda Melhor Tuna:** Magna
+    Tuna Cartola | **Terceira Melhor Tuna:** Tuna Universitária do Distrito de Jaén
+    | **Melhor Instrumental:** Tuna de Medicina do Porto | **Melhor “Passa Calles”:**
+    Tuna de Direito de Oviedo | **Tuna Mais Original:** Magna Tuna Cartola | **Melhor
+    Solista:** Tuna de Medicina do Porto | **Melhor Pandeireta:** Tuna Académica da
+    Univ. Lusíada do Porto | **Melhor Bandeira:** Estudantina Universitária de Lisboa
+    | **Melhor Tema Original:** Tuna de Direito de Oviedo | **Melhor Bebedor de Cerveja:**
+    Magna Tuna Cartola."
+  image: "/images/9fitu.jpg"
+- title: VIII FITU Bracara Avgvsta (1 e 2 de Maio de 1998)
+  texto: "**Melhor Tuna:** Tuna de Direito de Oviedo | **Segunda Melhor Tuna:** Tuna
+    Univ. do Instituto Superior Técnico | **Terceira Melhor Tuna:** Tuna de Veterinária
+    de Lugo | **Melhor Instrumental:** Estudantina Universitária de Lisboa | **Melhor
+    “Passa Calles”:** Tuna de Direito de Oviedo | **Tuna Mais Original:** Tuna Univ.
+    do Instituto Superior Técnico | **Melhor Solista:** Tuna de Medicina de Valência
+    | **Melhor Pandeireta:** Tuna Académica da Univ. Lusíada do Porto | **Melhor Bandeira:**
+    Tuna de Engenheiros Industriais de Gijon | **Melhor Tema Original:** Tuna de Veterinária
+    de Lugo | **Melhor Bebedor de Cerveja:** Tuna Universitária do IST de Lisboa."
+  image: "/images/8fitu.jpg"
+- title: VII FITU Bracara Avgvsta (9 e 10 de Maio de 1997)
+  texto: "**Melhor Tuna:** Tuna Univ. do Instituto Superior Técnico | **Segunda Melhor
+    Tuna:** Tuna de Direito de Oviedo | **Terceira Melhor Tuna:** Estudantina Universitária
+    de Lisboa | **Melhor Instrumental:** Tuna Univ. do Instituto Superior Técnico
+    | **Melhor “Passa Calles”:** Tuna de Direito de Oviedo | **Tuna Mais Original:**
+    Tuna Univ. do Instituto Superior Técnico | **Melhor Solista:** Tuna Univ. do Instituto
+    Superior Técnico | **Melhor Pandeireta:** Tuna Académica da Univ. Lusíada do Porto
+    | **Melhor Bandeira:** Tuna Universitária de Almeria | **Melhor Tema Original:**
+    Tuna Académica da Univ. Lusíada do Porto."
+  image: "/images/7fitu.jpg"
+- title: VI FITU Bracara Avgvsta (3 e 4 de Maio de 1996)
+  texto: "**Melhor Tuna:** Tuna de Segreles de Porto Rico | **Segunda Melhor Tuna:**
+    Tuna Académica da Univ. Lusíada do Porto | **Terceira Melhor Tuna:** Tuna Universitária
+    de Almeria | **Melhor Instrumental:** Tuna de Segreles de Porto Rico | **Melhor
+    “Passa Calles”:** Tuna de Direito de Oviedo | **Tuna Mais Original:** Tuna Académica
+    da Univ. Lusíada do Porto | **Melhor Solista:** Tuna de Segreles de Porto Rico
+    | **Melhor Pandeireta:** Tuna de Direito de Oviedo | **Melhor Bandeira:** Tuna
+    Universitária de Almeria | **Melhor Tema Original:** Tuna Académica da Univ. Lusíada
     do Porto."
-  image: "/images/a3r8.jpg"
+  image: "/images/6fitu.jpg"
+- title: V FITU Bracara Avgvsta (5 e 6 de Maio de 1995)
+  texto: "**Melhor Tuna:** Tuna de Segreles de Porto Rico | **Segunda Melhor Tuna:**
+    Tuna Universitária de Segóvia | **Terceira Melhor Tuna:** Tuna Académica da Univ.
+    Lusíada do Porto | **Melhor Instrumental:** Tuna Universitária de Segóvia | **Melhor
+    “Passa Calles”:** Tuna Universitária de Almeria | **Tuna Mais Original:** Tuna
+    Universitária do Instituto Superior Técnico | **Melhor Solista:** Tuna de Segreles
+    de Porto Rico | **Melhor Pandeireta:** Tuna Académica da Univ. Lusíada do Porto
+    | **Melhor Bandeira:** Tuna Universitária de Almeria."
+  image: "/images/5fitu.jpg"
+- title: IV FITU Bracara Avgvsta (6 e 7 de Maio de 1994)
+  texto: "**Melhor Tuna:** Tuna de Medicina de Múrcia | **Segunda Melhor Tuna:** Tuna
+    de Farmácia de Sevilha | **Terceira Melhor Tuna:** Tuna Académica da Univ. Lusíada
+    do Porto | **Melhor Instrumental:** Tuna de Medicina de Múrcia | **Melhor “Passa
+    Calles”:** Tuna de Direito de Salamanca | **Tuna Mais Original:** anTUNiA | **Melhor
+    Solista:** Tuna de Ciências de Granada | **Melhor Pandeireta:** Tuna Académica
+    da Univ. Lusíada do Porto | **Melhor Bandeira:** Tuna de Farmácia de Sevilha."
+  image: "/images/4fitu.jpg"
+- title: III FITU Bracara Avgvsta (7 e 8 de Maio de 1993)
+  texto: "**Melhor Tuna**: Tuna de Farmácia de Sevilha | **Segunda Melhor Tuna**:
+    Tuna de Direito de Oviedo | **Terceira Melhor Tuna:** Tuna Académica da Univ.
+    Lusíada do Porto | **Melhor Interpretação Musical:** Tuna de Medicina de Valladolid
+    | **Melhor “Passa Calles”:** Tuna de Direito de Oviedo | **Tuna Mais Original:**
+    Tuna de Direito de Oviedo | **Melhor Solista:** Tuna de Farmácia de Sevilha |
+    **Melhor Pandeireta:** Tuna Académica da Univ. Lusíada do Porto | **Melhor Bandeira:**
+    Tuna de Farmácia de Sevilha | **Melhor Tema Original:** Tuna de Direito de Oviedo."
+  image: "/images/3fitu.jpg"
+- title: II FITU Bracara Avgvsta (8 e 9 de Maio de 1992)
+  texto: "**Melhor Tuna**: Tuna de Ciências de Granada."
+  image: "/images/2fitu1.jpg"
+- title: I FITU Bracara Avgvsta (10 e 11 de Maio de 1991)
+  texto: "**Melhor Tuna** Tuna de Direito de Málaga"
+  image: "/images/1fitu2.jpg"
 menu:
   main:
     URL: fitus
