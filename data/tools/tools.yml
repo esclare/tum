@@ -1,57 +1,160 @@
 ---
 espetaculos:
-- ano: "1990"
+- ano: "2017"
   texto: |-
-    * **Digressão europeia:** Hamburgo, Copenhaga, Estocolmo, Helsínquia, Leninegrado, Varsóvia, Berlim, Praga, Estrasburgo;
-    * **IV FITU Cidade do Porto:** Tuna mais simpática;
-    * **II Certame Internacional de Tunas de Lisboa – Sete Colinas**.
-- ano: "1991"
+    * **XVIII El Açor – Festival Internacional de Tunas:** Melhor Estandarte e Melhor Tuna;
+    * **XVII Lethes – Festival de Tunas Cidade de Viana do Castelo:** Melhor Pandeireta e Tuna mais Bebedoura;
+    * **XXVII FITUA – Festival Internacional de Tunas da Universidade de Aveiro:** Tuna Mais Tuna.
+- ano: "2016"
   texto: |-
-    * **FITA do Porto:** 2ª Melhor Tuna e Melhor Bandeira;
-    * **Queima das Fitas de Coimbra**;
-    * **4º Festival Internacional de Tunas de Santiago de Compostela**;
-    * **Salão do Estudante de Paris**;
-    * **I Festival de Tunas da Cidade de Medina**;
-    * **Festival de Tunas do ISLA:** prémios simpatia e Melhor Solista;
-    * **V FITU Cidade do Porto:** menção honrosa;
-    * **III Certame Internacional de Tunas de Lisboa – Sete Colinas**.
-- ano: "1992"
+    * **III Noites de Ronda:** Tuna Mais Tuna e Melhor Tuna;
+    * **XXIV Tágides – Festival Internacional de Tunas Universitárias:** Tuna Mais Tuna, Melhor Instrumental e Melhor Porta-Estandarte;
+    * **XVI Lethes – Festival De Tunas Cidade De Viana Do Castelo:** Tuna Mais Tuna;
+    * **XXVI FITUA – Festival Internacional de Tunas da Universidade de Aveiro:** Tuna Mais Tuna, Tuna Mais Bebedoura, Melhor Estandarte, Melhor Instrumental e Melhor Tuna;
+    * **12.º CITADÃO – Certame Internacional de Tunas Académicas do Dão:** Melhor Pandeireta, Melhor Pasacalles e Melhor Serenata;
+    * **III Trovador – Festival Internacional de Tunas da FAN-Farra Académica de Coimbra:** Melhor Serenata, Melhor Porta-Estandarte, Melhor Instrumental, Melhor Original e Melhor Tuna.
+- ano: "2015"
+  texto: "**XXV FITUA – Festival Internacional de Tunas da Universidade de Aveiro:**
+    Melhor Instrumental e Melhor Tuna."
+- ano: "2014"
   texto: |-
-    * **FITA do Porto:** Melhor Solista;
-    * **Juventunas Funchal ‘92**;
-    * **Encontro de Tunas Ilha de São Miguel – Açores**;
-    * **I Festival Internacional de Tunas Cidade de Oviedo:** 3ª Melhor Tuna;
-    * **VI FITU Cidade do Porto:** Melhor Bandeira e Melhor Solista;
-    * **IV Certame Internacional de Tunas de Lisboa – Sete Colinas:** 3ª Melhor Tuna e Melhor Bandeira.
-- ano: "1993"
+    * **II Noites de Ronda:** Melhor Instrumental e Melhor Tuna;
+    * **XIII Oppidana:** Melhor Estandarte;
+    * **XIII Templário:** Tuna Mais Público;
+    * **XXIV Festuna**;
+    * **VI Cantar de Estudante:** Melhor Serenata, Melhor Pandeireta, Melhor Instrumental, Tuna do Público e 2ª Melhor Tuna.
+- ano: "2013"
   texto: |-
-    * **Espectáculos em Antuérpia, Bruges e Gent (Bélgica)**;
-    * **IV FITUA de AVEIRO:** Melhor Tuna portuguesa;
-    * **Participação no Festival de Cultura Europeia – ECU 93 – (Nimejen – Holanda)**;
-    * **VII FITU Cidade do Porto:** Melhor Solista;
-    * **V Certame Internacional de Tunas de Lisboa – Sete Colinas:** 3ª Melhor Tuna e Melhor Solista.
-- ano: "1994"
+    * **Digressão França e Suíça (Bayonne, Geneva, Berne, Zurique, Aigle, Interlaken, Clermont-ferrand e Lausanne)**;
+    * **XX TUIST**;
+    * **XVIII Alcatraz:** Melhor Solista, Tuna Mais Tuna e 2ª Melhor Tuna;
+    * **9º Citadão:** Melhor “Passa Calles” e Tuna Mais Tuna.
+- ano: "2012"
   texto: |-
-    * **I Festival Ibérico de Tunas do ISEP:** Melhor Tuna e Melhor Solista;
-    * **I Festival Camiliano de Tunas Universitárias:** Tuna mais Tuna;
-    * **II Festival Internacional de Tunas do IST:** Melhor Solista;
-    * **V FITUA de Aveiro:** Melhor Solista, Melhor interpretação musical;
-    * **Tágides 94:** 2ª Melhor Tuna e Melhor Solista;
-    * **Festival Internacional de Tunas do Caribe ‘94 (Porto Rico):** Melhor pandeireta;
-    * **Digressão pela Venezuela**;
-    * **VIII FITU Cidade do Porto:** Melhor Solista e Melhor pandeireta;
-    * **II Certame Internacional de Tunas “Ciudad de Badajoz”:** Melhor Tuna, Melhor Solista e Melhor pandeireta;
-    * **VI Certame Internacional de Tunas “Sete Colinas”:** 3ª Melhor Tuna.
-- ano: "1995"
+    * **I Noites de Ronda:** Melhor Tuna, Melhor Solista, Melhor Instrumental;
+    * **X FESTUBI – Festival de Tunas da Universidade da Beira Interior:** Melhor Solista, Melhor Serenata, Tuna do Público;
+    * **XXII FITUA – Festival Internacional de Tunas da Universidade de Aveiro:** 2ª Melhor Tuna;
+    * **Portus Calle ’12**;
+    * **Padrecos 2012:** Melhor Interpretação Musical, 2ª Melhor Tuna.
+- ano: "2011"
   texto: |-
-    * **II Festival Ibérico de Tunas do ISEP:** Melhor Solista;
-    * **III Festival de Tunas do Instituto Superior Técnico:** 3ª Melhor Tuna;
-    * **Tágides ‘95**;
-    * **VIII Certame Internacional de Tunas “Costa Cálida” (Múrcia)**;
-    * **Tuna Finalista no Programa Eferreá (R.T.P.)**;
-    * **IV Festival de Tunas da Universidade Lusíada-Porto:** Tuna Mais Tuna e Melhor Solista;
-    * **IX FITU Cidade do Porto:** 2ª Melhor Tuna e Melhor Solista;
-    * **I Festival de Tunas do Liceu do Liceu Nacional de Évora:** Melhor Bandeira.
+    * **XVII FITUP – Festival Internacional de Tunas da Universidade Portucalense – Infante D. Henrique:** 2ª Melhor Tuna, Melhor Instrumental, Melhor Bandeira;
+    * **II Certamen Internacional de Tunas “Ciudad de Alicante”:** Melhor Tuna, Melhor Bandeira, Melhor Pandeireta, Melhor “Passa-Calles”;
+    * **XXI FITUA – Festival Internacional de Tunas de Aveiro:** Tuna Mais Tuna;
+    * **X Festa Ibérica – Festival Internacional de Tunas de Trás-os-Montes e Alto Douro:** Melhor Tuna;
+    * **XIV FITAFF – Festival Internacional de Tunas Académicas da Figueira da Foz:** Melhor Instrumental;
+    * **XXV FITU “Cidade do Porto”**;
+    * **XVII ETUMa – Encontro de Tunas Universitária da Madeira**.
+- ano: "2010"
+  texto: |-
+    * **XVIII Tágides – Festival Internacional de Tunas Universitárias:** Melhor Instrumental, Melhor Pandeireta;
+    * **XX FITUA – Festival Internacional de Tunas da Universidade de Aveiro:** Tuna Mais Tuna;
+    * **Digressão a Barcelona e Ibiza, com presença na viagem ESN IBIZA 2010 organizada pela ESN España (Erasmus Student Network)**;
+    * **PADRECOS 2010:** 2ª Melhor Tuna, Melhor Pandeireta;
+    * **XXIV FITU “Cidade do Porto”:** Prémio do Público, Melhor Bandeira;
+    * **II Cantar de Estudante – Festival de Tunas da TMUC:** Tuna Mais Tuna, Melhor Pandeireta.
+- ano: "2009"
+  texto: |-
+    * **II MTB – Música, Tunas e Boémia**;
+    * **VIII Oppidana**;
+    * **XIX FITUA – Festival Internacional de Tunas de Aveiro**;
+    * **VIII Festa Ibérica – Festival Internacional de Tunas de Trás-os-Montes e Alto Douro:** 3ª Melhor Tuna;
+    * **Digressão à Polónia (Varsóvia, Cracóvia, Lodz) com presença no Encontro de Tunas em Lodz integrado nas festas da Juwenalia**;
+    * **XXIII FITU “Cidade do Porto”:** Melhor Instrumental e 2ª Melhor Tuna;
+    * **I Cantar de Estudante – Festival de Tunas de Coimbra:** Melhor Tuna, Melhor Instrumental, Melhor Pandeireta, Melhor Bandeira, Melhor Serenata;
+    * **Prémio de Evento do Ano nos Galardões “A Nossa Terra” pela organização do XIX FITU Bracara Avgvsta**.
+- ano: "2008"
+  texto: |-
+    * **III Encontro Ibérico de Tunas de Freixo de Espada à Cinta:** Melhor Instrumental, Melhor Estandarte;
+    * **Padrecos 2008:** Melhor Solista;
+    * **XV FITISEP:** Melhor Pandeireta;
+    * **V Festival de Tunas de Vila Verde:** 2ª Melhor Tuna, Melhor Solista.
+- ano: "2007"
+  texto: |-
+    * **VIII El Açor:** 2ª Melhor Tuna;
+    * **XII TUIST – Festival Internacional de Tunas do I.S.T.:** Melhor Pandeireta, Melhor Bandeira, Tuna Mais Tuna;
+    * **Digressão México:** Monterrey, Cancún;
+    * **1º “Encuentro Internacional de Tunas” FACPyA 2007 – Monterrey**;
+    * **I FITUM – Festival Internacional de Tunas Universitárias de Monterrey:** Melhor “Passa-Calles”, Melhor Serenata, Melhor Pandeireta;
+    * **XXI FITU “Cidade do Porto”**;
+    * **IV “Cidade do Berço” – Guimarães (Tuna Convidada)**;
+    * **XVII FESTUNA**.
+- ano: "2006"
+  texto: |-
+    * **Padrecos 2006 – Festival Internacional de Tunas da Universidade Católica do Porto:** Tuna Mais Tuna, Melhor Pandeireta;
+    * **V Festa Ibérica – Festival Ibérico de Tunas da Universidade de Trás-os-Montes e Alto Douro:** Melhor Pandeireta, Grande Prémio Festa Ibérica (Tuna Mais Tuna);
+    * **III Fernandinho – Festival Internacional de Tunas de Ponte de Lima:** Melhor Pandeireta, Melhor Tuna;
+    * **XIX Certamen Internacional de Tunas “Costa Cálida” – Múrcia:** Melhor “Passa-Calles”, Melhor Bandeira, Melhor Desempenho Musical;
+    * **Digressão Irlanda (Dublin, Belfast, Dungannon)**;
+    * **XX FITU “Cidade do Porto”:** Melhor Bandeira, Melhor Interpretação Musical, 2ª Melhor Tuna;
+    * **IV FITU “Terras de Cante”:** Melhor “Passa-Calles”;
+    * **XVI FESTUNA:** Tuna Simpatia;
+    * **Prémio de Melhor Associação Recreativa nos Galardões “A Nossa Terra”**
+- ano: "2005"
+  texto: |-
+    * **Digressão a Oviedo**;
+    * **II Fernandinho – Festival de Tunas de Ponte de Lima: Melhor Passa-Calles:** 2ª Melhor Tuna;
+    * **XV FITUA – Festival Internacional de Tunas de Aveiro**;
+    * **II Certamen de Tunas de Lugo:** Melhor Pandeireta, Melhor Bandeira, Melhor Instrumental;
+    * **Festival de Tunas de Amares:** Melhor Instrumental;
+    * **Digressão ao Algarve**;
+    * **XV FESTUNA:** Melhor Pandeireta
+- ano: "2004"
+  texto: |-
+    * **Padrecos 2004 – Festival Internacional de Tunas da Universidade Católica do Porto:** 3ª melhor Tuna, Melhor Solista, Melhor Porta-Estandarte, Tuna Mais Tuna;
+    * **XIV Festuna – Festival Internacional de Tunas de Coimbra:** Melhor Solista, Melhor Porta-Estandarte;
+    * **IV LETHES – Festival Internacional de Tunas de Viana do Castelo:** Melhor Solista.
+- ano: "2003"
+  texto: |-
+    * **XI FITUP – Festival Internacional de Tunas da Universidade Portucalense – Infante D. Henrique:** 3ª Melhor Tuna;
+    * **III LETHES – Festival Internacional de Tunas de Viana do Castelo:** Melhor Solista, 3ª Melhor Tuna, Tuna mais Tuna;
+    * **XII Certamen de Tunas “Ciudad de Léon”:** Melhor Solista, Melhor Pandeireta, Melhor Bandeira e Melhor Tuna;
+    * **Digressão a Cuba (Havana, Varadero, Trinidad, Cienfuegos, Holguin, Sta. Clara)**;
+    * **I FITU “Terras de Cante”:** Melhor Instrumental;
+    * **V Festival Luz&Tuna:** Melhor Tuna, Melhor Pandeireta, Melhor Bandeira.
+- texto: |-
+    * **X FITUP – Festival Internacional de Tunas da Universidade Portucalense – Infante D. Henrique:** 3ª Melhor Tuna, Melhor Solista e Melhor Interpretação Instrumental;
+    * **IX TUIST – Festival Internacional de Tunas do Instituto Superior Técnico:** Melhor Solista e Melhor Porta-Estandarte;
+    * **II LETHES – Festival Internacional de Tunas de Viana do Castelo:** 2ª Melhor Tuna, Melhor Solista, Melhor Tema Instrumental e Melhor Tema Original;
+    * **XII FITUA – Festival Internacional de Tunas de Aveiro**;
+    * **III OLISIPO:** Melhor Solista;
+    * **XII FESTUNA – Festival Internacional de Tunas de Coimbra:** Melhor Tuna, Melhor Solista, Melhor Porta-Estandarte, Tuna mais Simpática.
+  ano: "2002"
+- ano: "2001"
+  texto: |-
+    * **IX FITUP – Festival Internacional de Tunas da Universidade Portucalense – Infante D. Henrique:** Melhor Tuna e Melhor Solista;
+    * **VIII TUIST – Festival Internacional de Tunas do Instituto Superior Técnico:** Melhor Tuna e Melhor Solista;
+    * **Certamen Internacional de Tunas “Barrio del Carmen”:** Melhor Pandeireta;
+    * **Digressão à Madeira (Espectáculo para o Presidente da Região Autónoma da Madeira)**;
+    * **XV FITU “Cidade do Porto”:** Melhor Tuna;
+    * **XI FESTUNA:** 2ª Melhor Tuna, Melhor Instrumental, Melhor Solista e Melhor Porta Estandarte.
+- ano: "2000"
+  texto: |-
+    * **V INVICTA – Festival de Tunas da Universidade Fernando Pessoa:** 3ª melhor Tuna;
+    * **Digressão ao Brasil (Fortaleza, Recife, João Pessoa e Rio de Janeiro)**;
+    * **II Cidade Berço – Festival Internacional de Tunas Universitárias (Tuna Convidada)**;
+    * **XIV FITU Cidade do Porto:** Melhor Bandeira e Melhor Solista;
+    * **Lançamento do C.D. duplo “Tuna Universitária do Minho”**.
+- ano: "1999"
+  texto: |-
+    * **IV INVICTA – Festival de Tunas Académicas da Universidade Fernando Pessoa:** 2ª Melhor Tuna, Melhor Solista, Melhor Bandeira e Melhor Pandeireta;
+    * **VI TUIST – Festival Internacional de Tunas do I.S.T.:** 3ª Melhor Tuna, Melhor Solista e Melhor Porta Estandarte;
+    * **XIII FITU Cidade do Porto:** Melhor Solista;
+    * **VII Certamen Internacional de Tunas “Ciudad de Almeria”:** Melhor Tuna, Melhor Bandeira e Melhor “Passa Calles”.
+- ano: "1998"
+  texto: |-
+    * **III INVICTA – Festival de Tunas Académicas da Universidade Fernando Pessoa:** Melhor Tuna, Melhor Solista e Tuna Mais Tuna;
+    * **IX FITUA – Festival Internacional de Tunas Universitária de Aveiro:** Melhor Solista;
+    * **XII FITU Cidade do Porto:** 2ª Melhor Tuna e Melhor Solista.
+- ano: "1997"
+  texto: |-
+    * **V TUIST – Festival Internacional de Tunas do I.S.T.:** Melhor Tuna e Melhor Solista;
+    * **Tágides ’97:** 3ª Melhor Tuna;
+    * **II Invicta:** 2ª Melhor Tuna e Melhor Solista;
+    * **III Certamen Internacional de Tunas Ciudad de La Alhambra – Granada:** Melhor Tuna, Melhor Bandeira, Melhor Solista e Melhor Pandeireta;
+    * **XI FITU Cidade do Porto:** 2ª Melhor Tuna e Melhor Solista;
+    * **Encontro Nacional de Tunas de Lugo – Galiza (Tuna Convidada)**;
+    * **V Certamen Internacional de Tunas “Ciudad de Almeria”:** Melhor Tuna, Melhor Bandeira, Melhor Solista, Melhor Pandeireta e Melhor “Passa Calles”.
 - ano: "1996"
   texto: |-
     * **IV TUIST – Festival Internacional de Tunas do I.S.T.**;
@@ -64,158 +167,55 @@ espetaculos:
     * **I Encontro Ibero-Americano de Tunas – Cidade de Lima (Peru – não competitivo)**;
     * **X FITU “Cidade do Porto”:** Melhor Solista;
     * **VI FESTUNA-Coimbra:** Melhor Bandeira.
-- ano: "1997"
+- ano: "1995"
   texto: |-
-    * **V TUIST – Festival Internacional de Tunas do I.S.T.:** Melhor Tuna e Melhor Solista;
-    * **Tágides ’97:** 3ª Melhor Tuna;
-    * **II Invicta:** 2ª Melhor Tuna e Melhor Solista;
-    * **III Certamen Internacional de Tunas Ciudad de La Alhambra – Granada:** Melhor Tuna, Melhor Bandeira, Melhor Solista e Melhor Pandeireta;
-    * **XI FITU Cidade do Porto:** 2ª Melhor Tuna e Melhor Solista;
-    * **Encontro Nacional de Tunas de Lugo – Galiza (Tuna Convidada)**;
-    * **V Certamen Internacional de Tunas “Ciudad de Almeria”:** Melhor Tuna, Melhor Bandeira, Melhor Solista, Melhor Pandeireta e Melhor “Passa Calles”.
-- ano: "1998"
+    * **II Festival Ibérico de Tunas do ISEP:** Melhor Solista;
+    * **III Festival de Tunas do Instituto Superior Técnico:** 3ª Melhor Tuna;
+    * **Tágides ‘95**;
+    * **VIII Certame Internacional de Tunas “Costa Cálida” (Múrcia)**;
+    * **Tuna Finalista no Programa Eferreá (R.T.P.)**;
+    * **IV Festival de Tunas da Universidade Lusíada-Porto:** Tuna Mais Tuna e Melhor Solista;
+    * **IX FITU Cidade do Porto:** 2ª Melhor Tuna e Melhor Solista;
+    * **I Festival de Tunas do Liceu do Liceu Nacional de Évora:** Melhor Bandeira.
+- ano: "1994"
   texto: |-
-    * **III INVICTA – Festival de Tunas Académicas da Universidade Fernando Pessoa:** Melhor Tuna, Melhor Solista e Tuna Mais Tuna;
-    * **IX FITUA – Festival Internacional de Tunas Universitária de Aveiro:** Melhor Solista;
-    * **XII FITU Cidade do Porto:** 2ª Melhor Tuna e Melhor Solista.
-- ano: "1999"
+    * **I Festival Ibérico de Tunas do ISEP:** Melhor Tuna e Melhor Solista;
+    * **I Festival Camiliano de Tunas Universitárias:** Tuna mais Tuna;
+    * **II Festival Internacional de Tunas do IST:** Melhor Solista;
+    * **V FITUA de Aveiro:** Melhor Solista, Melhor interpretação musical;
+    * **Tágides 94:** 2ª Melhor Tuna e Melhor Solista;
+    * **Festival Internacional de Tunas do Caribe ‘94 (Porto Rico):** Melhor pandeireta;
+    * **Digressão pela Venezuela**;
+    * **VIII FITU Cidade do Porto:** Melhor Solista e Melhor pandeireta;
+    * **II Certame Internacional de Tunas “Ciudad de Badajoz”:** Melhor Tuna, Melhor Solista e Melhor pandeireta;
+    * **VI Certame Internacional de Tunas “Sete Colinas”:** 3ª Melhor Tuna.
+- ano: "1993"
   texto: |-
-    * **IV INVICTA – Festival de Tunas Académicas da Universidade Fernando Pessoa:** 2ª Melhor Tuna, Melhor Solista, Melhor Bandeira e Melhor Pandeireta;
-    * **VI TUIST – Festival Internacional de Tunas do I.S.T.:** 3ª Melhor Tuna, Melhor Solista e Melhor Porta Estandarte;
-    * **XIII FITU Cidade do Porto:** Melhor Solista;
-    * **VII Certamen Internacional de Tunas “Ciudad de Almeria”:** Melhor Tuna, Melhor Bandeira e Melhor “Passa Calles”.
-- ano: "2000"
+    * **Espectáculos em Antuérpia, Bruges e Gent (Bélgica)**;
+    * **IV FITUA de AVEIRO:** Melhor Tuna portuguesa;
+    * **Participação no Festival de Cultura Europeia – ECU 93 – (Nimejen – Holanda)**;
+    * **VII FITU Cidade do Porto:** Melhor Solista;
+    * **V Certame Internacional de Tunas de Lisboa – Sete Colinas:** 3ª Melhor Tuna e Melhor Solista.
+- ano: "1992"
   texto: |-
-    * **V INVICTA – Festival de Tunas da Universidade Fernando Pessoa:** 3ª melhor Tuna;
-    * **Digressão ao Brasil (Fortaleza, Recife, João Pessoa e Rio de Janeiro)**;
-    * **II Cidade Berço – Festival Internacional de Tunas Universitárias (Tuna Convidada)**;
-    * **XIV FITU Cidade do Porto:** Melhor Bandeira e Melhor Solista;
-    * **Lançamento do C.D. duplo “Tuna Universitária do Minho”**.
-- ano: "2001"
+    * **FITA do Porto:** Melhor Solista;
+    * **Juventunas Funchal ‘92**;
+    * **Encontro de Tunas Ilha de São Miguel – Açores**;
+    * **I Festival Internacional de Tunas Cidade de Oviedo:** 3ª Melhor Tuna;
+    * **VI FITU Cidade do Porto:** Melhor Bandeira e Melhor Solista;
+    * **IV Certame Internacional de Tunas de Lisboa – Sete Colinas:** 3ª Melhor Tuna e Melhor Bandeira.
+- ano: "1991"
   texto: |-
-    * **IX FITUP – Festival Internacional de Tunas da Universidade Portucalense – Infante D. Henrique:** Melhor Tuna e Melhor Solista;
-    * **VIII TUIST – Festival Internacional de Tunas do Instituto Superior Técnico:** Melhor Tuna e Melhor Solista;
-    * **Certamen Internacional de Tunas “Barrio del Carmen”:** Melhor Pandeireta;
-    * **Digressão à Madeira (Espectáculo para o Presidente da Região Autónoma da Madeira)**;
-    * **XV FITU “Cidade do Porto”:** Melhor Tuna;
-    * **XI FESTUNA:** 2ª Melhor Tuna, Melhor Instrumental, Melhor Solista e Melhor Porta Estandarte.
-- texto: |-
-    * **X FITUP – Festival Internacional de Tunas da Universidade Portucalense – Infante D. Henrique:** 3ª Melhor Tuna, Melhor Solista e Melhor Interpretação Instrumental;
-    * **IX TUIST – Festival Internacional de Tunas do Instituto Superior Técnico:** Melhor Solista e Melhor Porta-Estandarte;
-    * **II LETHES – Festival Internacional de Tunas de Viana do Castelo:** 2ª Melhor Tuna, Melhor Solista, Melhor Tema Instrumental e Melhor Tema Original;
-    * **XII FITUA – Festival Internacional de Tunas de Aveiro**;
-    * **III OLISIPO:** Melhor Solista;
-    * **XII FESTUNA – Festival Internacional de Tunas de Coimbra:** Melhor Tuna, Melhor Solista, Melhor Porta-Estandarte, Tuna mais Simpática.
-  ano: "2002"
-- ano: "2003"
+    * **FITA do Porto:** 2ª Melhor Tuna e Melhor Bandeira;
+    * **Queima das Fitas de Coimbra**;
+    * **4º Festival Internacional de Tunas de Santiago de Compostela**;
+    * **Salão do Estudante de Paris**;
+    * **I Festival de Tunas da Cidade de Medina**;
+    * **Festival de Tunas do ISLA:** prémios simpatia e Melhor Solista;
+    * **V FITU Cidade do Porto:** menção honrosa;
+    * **III Certame Internacional de Tunas de Lisboa – Sete Colinas**.
+- ano: "1990"
   texto: |-
-    * **XI FITUP – Festival Internacional de Tunas da Universidade Portucalense – Infante D. Henrique:** 3ª Melhor Tuna;
-    * **III LETHES – Festival Internacional de Tunas de Viana do Castelo:** Melhor Solista, 3ª Melhor Tuna, Tuna mais Tuna;
-    * **XII Certamen de Tunas “Ciudad de Léon”:** Melhor Solista, Melhor Pandeireta, Melhor Bandeira e Melhor Tuna;
-    * **Digressão a Cuba (Havana, Varadero, Trinidad, Cienfuegos, Holguin, Sta. Clara)**;
-    * **I FITU “Terras de Cante”:** Melhor Instrumental;
-    * **V Festival Luz&Tuna:** Melhor Tuna, Melhor Pandeireta, Melhor Bandeira.
-- ano: "2004"
-  texto: |-
-    * **Padrecos 2004 – Festival Internacional de Tunas da Universidade Católica do Porto:** 3ª melhor Tuna, Melhor Solista, Melhor Porta-Estandarte, Tuna Mais Tuna;
-    * **XIV Festuna – Festival Internacional de Tunas de Coimbra:** Melhor Solista, Melhor Porta-Estandarte;
-    * **IV LETHES – Festival Internacional de Tunas de Viana do Castelo:** Melhor Solista.
-- ano: "2005"
-  texto: |-
-    * **Digressão a Oviedo**;
-    * **II Fernandinho – Festival de Tunas de Ponte de Lima: Melhor Passa-Calles:** 2ª Melhor Tuna;
-    * **XV FITUA – Festival Internacional de Tunas de Aveiro**;
-    * **II Certamen de Tunas de Lugo:** Melhor Pandeireta, Melhor Bandeira, Melhor Instrumental;
-    * **Festival de Tunas de Amares:** Melhor Instrumental;
-    * **Digressão ao Algarve**;
-    * **XV FESTUNA:** Melhor Pandeireta
-- ano: "2006"
-  texto: |-
-    * **Padrecos 2006 – Festival Internacional de Tunas da Universidade Católica do Porto:** Tuna Mais Tuna, Melhor Pandeireta;
-    * **V Festa Ibérica – Festival Ibérico de Tunas da Universidade de Trás-os-Montes e Alto Douro:** Melhor Pandeireta, Grande Prémio Festa Ibérica (Tuna Mais Tuna);
-    * **III Fernandinho – Festival Internacional de Tunas de Ponte de Lima:** Melhor Pandeireta, Melhor Tuna;
-    * **XIX Certamen Internacional de Tunas “Costa Cálida” – Múrcia:** Melhor “Passa-Calles”, Melhor Bandeira, Melhor Desempenho Musical;
-    * **Digressão Irlanda (Dublin, Belfast, Dungannon)**;
-    * **XX FITU “Cidade do Porto”:** Melhor Bandeira, Melhor Interpretação Musical, 2ª Melhor Tuna;
-    * **IV FITU “Terras de Cante”:** Melhor “Passa-Calles”;
-    * **XVI FESTUNA:** Tuna Simpatia;
-    * **Prémio de Melhor Associação Recreativa nos Galardões “A Nossa Terra”**
-- ano: "2007"
-  texto: |-
-    * **VIII El Açor:** 2ª Melhor Tuna;
-    * **XII TUIST – Festival Internacional de Tunas do I.S.T.:** Melhor Pandeireta, Melhor Bandeira, Tuna Mais Tuna;
-    * **Digressão México:** Monterrey, Cancún;
-    * **1º “Encuentro Internacional de Tunas” FACPyA 2007 – Monterrey**;
-    * **I FITUM – Festival Internacional de Tunas Universitárias de Monterrey:** Melhor “Passa-Calles”, Melhor Serenata, Melhor Pandeireta;
-    * **XXI FITU “Cidade do Porto”**;
-    * **IV “Cidade do Berço” – Guimarães (Tuna Convidada)**;
-    * **XVII FESTUNA**.
-- ano: "2008"
-  texto: |-
-    * **III Encontro Ibérico de Tunas de Freixo de Espada à Cinta:** Melhor Instrumental, Melhor Estandarte;
-    * **Padrecos 2008:** Melhor Solista;
-    * **XV FITISEP:** Melhor Pandeireta;
-    * **V Festival de Tunas de Vila Verde:** 2ª Melhor Tuna, Melhor Solista.
-- ano: "2009"
-  texto: |-
-    * **II MTB – Música, Tunas e Boémia**;
-    * **VIII Oppidana**;
-    * **XIX FITUA – Festival Internacional de Tunas de Aveiro**;
-    * **VIII Festa Ibérica – Festival Internacional de Tunas de Trás-os-Montes e Alto Douro:** 3ª Melhor Tuna;
-    * **Digressão à Polónia (Varsóvia, Cracóvia, Lodz) com presença no Encontro de Tunas em Lodz integrado nas festas da Juwenalia**;
-    * **XXIII FITU “Cidade do Porto”:** Melhor Instrumental e 2ª Melhor Tuna;
-    * **I Cantar de Estudante – Festival de Tunas de Coimbra:** Melhor Tuna, Melhor Instrumental, Melhor Pandeireta, Melhor Bandeira, Melhor Serenata;
-    * **Prémio de Evento do Ano nos Galardões “A Nossa Terra” pela organização do XIX FITU Bracara Avgvsta**.
-- ano: "2010"
-  texto: |-
-    * **XVIII Tágides – Festival Internacional de Tunas Universitárias:** Melhor Instrumental, Melhor Pandeireta;
-    * **XX FITUA – Festival Internacional de Tunas da Universidade de Aveiro:** Tuna Mais Tuna;
-    * **Digressão a Barcelona e Ibiza, com presença na viagem ESN IBIZA 2010 organizada pela ESN España (Erasmus Student Network)**;
-    * **PADRECOS 2010:** 2ª Melhor Tuna, Melhor Pandeireta;
-    * **XXIV FITU “Cidade do Porto”:** Prémio do Público, Melhor Bandeira;
-    * **II Cantar de Estudante – Festival de Tunas da TMUC:** Tuna Mais Tuna, Melhor Pandeireta.
-- ano: "2011"
-  texto: |-
-    * **XVII FITUP – Festival Internacional de Tunas da Universidade Portucalense – Infante D. Henrique:** 2ª Melhor Tuna, Melhor Instrumental, Melhor Bandeira;
-    * **II Certamen Internacional de Tunas “Ciudad de Alicante”:** Melhor Tuna, Melhor Bandeira, Melhor Pandeireta, Melhor “Passa-Calles”;
-    * **XXI FITUA – Festival Internacional de Tunas de Aveiro:** Tuna Mais Tuna;
-    * **X Festa Ibérica – Festival Internacional de Tunas de Trás-os-Montes e Alto Douro:** Melhor Tuna;
-    * **XIV FITAFF – Festival Internacional de Tunas Académicas da Figueira da Foz:** Melhor Instrumental;
-    * **XXV FITU “Cidade do Porto”**;
-    * **XVII ETUMa – Encontro de Tunas Universitária da Madeira**.
-- ano: "2012"
-  texto: |-
-    * **I Noites de Ronda:** Melhor Tuna, Melhor Solista, Melhor Instrumental;
-    * **X FESTUBI – Festival de Tunas da Universidade da Beira Interior:** Melhor Solista, Melhor Serenata, Tuna do Público;
-    * **XXII FITUA – Festival Internacional de Tunas da Universidade de Aveiro:** 2ª Melhor Tuna;
-    * **Portus Calle ’12**;
-    * **Padrecos 2012:** Melhor Interpretação Musical, 2ª Melhor Tuna.
-- ano: "2013"
-  texto: |-
-    * **Digressão França e Suíça (Bayonne, Geneva, Berne, Zurique, Aigle, Interlaken, Clermont-ferrand e Lausanne)**;
-    * **XX TUIST**;
-    * **XVIII Alcatraz:** Melhor Solista, Tuna Mais Tuna e 2ª Melhor Tuna;
-    * **9º Citadão:** Melhor “Passa Calles” e Tuna Mais Tuna.
-- ano: "2014"
-  texto: |-
-    * **II Noites de Ronda:** Melhor Instrumental e Melhor Tuna;
-    * **XIII Oppidana:** Melhor Estandarte;
-    * **XIII Templário:** Tuna Mais Público;
-    * **XXIV Festuna**;
-    * **VI Cantar de Estudante:** Melhor Serenata, Melhor Pandeireta, Melhor Instrumental, Tuna do Público e 2ª Melhor Tuna.
-- ano: "2015"
-  texto: "**XXV FITUA – Festival Internacional de Tunas da Universidade de Aveiro:**
-    Melhor Instrumental e Melhor Tuna."
-- ano: "2016"
-  texto: |-
-    * **III Noites de Ronda:** Tuna Mais Tuna e Melhor Tuna;
-    * **XXIV Tágides – Festival Internacional de Tunas Universitárias:** Tuna Mais Tuna, Melhor Instrumental e Melhor Porta-Estandarte;
-    * **XVI Lethes – Festival De Tunas Cidade De Viana Do Castelo:** Tuna Mais Tuna;
-    * **XXVI FITUA – Festival Internacional de Tunas da Universidade de Aveiro:** Tuna Mais Tuna, Tuna Mais Bebedoura, Melhor Estandarte, Melhor Instrumental e Melhor Tuna;
-    * **12.º CITADÃO – Certame Internacional de Tunas Académicas do Dão:** Melhor Pandeireta, Melhor Pasacalles e Melhor Serenata;
-    * **III Trovador – Festival Internacional de Tunas da FAN-Farra Académica de Coimbra:** Melhor Serenata, Melhor Porta-Estandarte, Melhor Instrumental, Melhor Original e Melhor Tuna.
-- ano: "2017"
-  texto: |-
-    * **XVIII El Açor – Festival Internacional de Tunas:** Melhor Estandarte e Melhor Tuna;
-    * **XVII Lethes – Festival de Tunas Cidade de Viana do Castelo:** Melhor Pandeireta e Tuna mais Bebedoura;
-    * **XXVII FITUA – Festival Internacional de Tunas da Universidade de Aveiro:** Tuna Mais Tuna.
+    * **Digressão europeia:** Hamburgo, Copenhaga, Estocolmo, Helsínquia, Leninegrado, Varsóvia, Berlim, Praga, Estrasburgo;
+    * **IV FITU Cidade do Porto:** Tuna mais simpática;
+    * **II Certame Internacional de Tunas de Lisboa – Sete Colinas**.
