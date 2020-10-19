@@ -1,7 +1,5 @@
 ---
 fitus:
-- title: 'XXI FITU Bracara Avgvsta - '
-  texto: ''
 - title: XXIII FITU Bracara Avgvsta (19 e 20 de Abril de 2013)
   texto: "**Melhor Tuna:** Tuna de Medicina do Porto | **Segunda Melhor Tuna:** Estudantina
     Universitária de Coimbra | **Terceira Melhor Tuna:** Tunadão 1998 – Tuna do IPV
@@ -21,6 +19,8 @@ fitus:
     Tuna da Universidade Católica Portuguesa – Porto | **Melhor Bandeira:** Tuna de
     Medicina da Universidade de Coimbra."
   image: "/images/u78q.jpg"
+- title: XXI FITU Bracara Avgvsta ()
+  texto: ''
 - title: XX FITU Bracara Avgvsta (16 e 17 de Abril de 2010)
   texto: "**Melhor Tuna:** Tuna Universitária de Aveiro | **Segunda Melhor Tuna:**
     Tuna da Universidade Católica Portuguesa – Porto | **Terceira Melhor Tuna:** anTUNiA
