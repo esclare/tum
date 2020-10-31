@@ -9,13 +9,13 @@
 	<div class="accordion" id="accordion">
   {{ range first 1 .Site.Data.elementos.elementos.elementos }}
   <div class="card p-3">
-    <div class="card-head" id="heading{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}">
-      <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" aria-expanded="true" aria-controls="collapse{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}">
+    <div class="card-head" id="heading{{ replaceRE "(ç|ã|ª|-|\\s)" "" .title }}">
+      <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" aria-expanded="true" aria-controls="collapse{{ replaceRE "(ç|ã|ª|-|\\s)" "" .title }}">
           {{ .title | markdownify }}
       </h2>
     </div>
 
-    <div id="{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" class="collapse show" aria-labelledby="heading{{ .title }}" data-parent="#accordion">
+    <div id="{{ replaceRE "(ç|ã|ª|-|\\s)" "" .title }}" class="collapse show" aria-labelledby="heading{{ .title }}" data-parent="#accordion">
 
 	  <div class="card-body">
 	  <div class="row">
@@ -62,13 +62,13 @@
   {{ end }}
   {{ range after 1 .Site.Data.elementos.elementos.elementos }}
   <div class="card p-3">
-    <div class="card-head" id="heading{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}">
-      <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" aria-expanded="true" aria-controls="collapse{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}">
+    <div class="card-head" id="heading{{ replaceRE "(ç|ã|ª|-|\\s)" "" .title }}">
+      <h2 class="mb-0 collapsed text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(ç|ã|ª|-|\\s)" "" .title }}" aria-expanded="true" aria-controls="collapse{{ replaceRE "(ç|ã|ª|-|\\s)" "" .title }}">
           {{ .title | markdownify }}
       </h2>
     </div>
 
-    <div id="{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" class="collapse" aria-labelledby="heading{{ replaceRE "(ç|ã|ª|\\s)" "" .title }}" data-parent="#accordion">
+    <div id="{{ replaceRE "(ç|ã|ª|-|\\s)" "" .title }}" class="collapse" aria-labelledby="heading{{ replaceRE "(ç|ã|ª|-|\\s)" "" .title }}" data-parent="#accordion">
 
 	  <div class="card-body">
 	  <div class="row">

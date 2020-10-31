@@ -8,13 +8,13 @@
   <div class="accordion" id="accordionExample">
   {{ range first 1 .Site.Data.fitus.fitus.fitus }}
   <div class="card p-3" >
-    <div class="card-head" id="heading{{ replaceRE "(/images/|.jpg)" "" .image }}">
-      <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(/images/|.jpg)" "" .image }}" aria-expanded="true" aria-controls="collapseOne">
+    <div class="card-head" id="heading{{ replaceRE "(/images/|.jpg|/uploads/)" "" .image }}">
+      <h2 class="mb-0 text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(/images/|.jpg|/uploads/)" "" .image }}" aria-expanded="true" aria-controls="collapseOne">
           {{ .title | markdownify }}
       </h2>
     </div>
 
-    <div id="{{ replaceRE "(/images/|.jpg)" "" .image }}" class="collapse show" aria-labelledby="heading{{ replaceRE "(/images/|.jpg)" "" .image }}" data-parent="#accordionExample">
+    <div id="{{ replaceRE "(/images/|.jpg|/uploads/)" "" .image }}" class="collapse show" aria-labelledby="heading{{ replaceRE "(/images/|.jpg|/uploads/)" "" .image }}" data-parent="#accordionExample">
       <div class="card-body">
 	  <div class="row">
 	  <div class="col-md-3 col-sm-12">
@@ -30,12 +30,12 @@
   {{ end }}
   {{ range after 1 .Site.Data.fitus.fitus.fitus }}
   <div class="card p-3" >
-    <div class="card-head" id="heading{{ replaceRE "(/images/|.jpg)" "" .image }}">
-      <h2 class="mb-0 collapsed text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(/images/|.jpg)" "" .image }}" aria-expanded="false" aria-controls="{{ replaceRE "(\\s)" "" .title }}">
+    <div class="card-head" id="heading{{ replaceRE "(/images/|.jpg|/uploads/)" "" .image }}">
+      <h2 class="mb-0 collapsed text-primary" data-toggle="collapse" data-target="#{{ replaceRE "(/images/|.jpg|/uploads/)" "" .image }}" aria-expanded="false" aria-controls="{{ replaceRE "(\\s)" "" .title }}">
           {{ .title | markdownify }}
       </h2>
     </div>
-    <div id="{{ replaceRE "(/images/|.jpg)" "" .image }}" class="collapse" aria-labelledby="heading{{ replaceRE "(/images/|.jpg)" "" .image }}" data-parent="#accordionExample">
+    <div id="{{ replaceRE "(/images/|.jpg|/uploads/)" "" .image }}" class="collapse" aria-labelledby="heading{{ replaceRE "(/images/|.jpg|/uploads/)" "" .image }}" data-parent="#accordionExample">
       <div class="card-body">
          <div class="row">
 	  <div class="col-md-3 col-sm-12">
