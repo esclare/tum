@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Tuna Universitária do Minho</title>
+    <link>https://tum.pt/pages/</link>
+    <description>Recent content in Pages on Tuna Universitária do Minho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language><atom:link href="https://tum.pt/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Historial</title>
+      <link>https://tum.pt/pages/historial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tum.pt/pages/historial/</guid>
+      <description>A Tuna Universitária do Minho foi fundada no ano de mil novecentos e noventa por vinte jovens trovadores na mui nobre e augusta Cidade de Braga com objectivo de cantar e encantar as belas discípulas de Vénus, bem como manter as velhas e irreverentes tradições académicas.</description>
+    </item>
+    
+    <item>
+      <title>Simbologia</title>
+      <link>https://tum.pt/pages/simbologia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tum.pt/pages/simbologia/</guid>
+      <description>O Escudo Em fundo negro, assenta o brasão. Este, de cor vermelha, contém um bandolim de ouro com escala a prata e cordas negras, está de pé entre dois jasmins de ouro riscados a negro.</description>
+    </item>
+    
+    <item>
+      <title>Traje</title>
+      <link>https://tum.pt/pages/traje/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tum.pt/pages/traje/</guid>
+      <description>O Traje da Tuna Universitária do Minho, é baseado no traje académico da Universidade do Minho, também conhecido por traje do tricórnio (nome que vem do chapéu que lhe pertence).</description>
+    </item>
+    
+  </channel>
+</rss>
