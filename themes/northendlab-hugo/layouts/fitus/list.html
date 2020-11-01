@@ -1,5 +1,5 @@
 {{ define "main" }}
-
+{{ $page := .Site.GetPage "/fitus" }}
 <section class="section">
   <div class="container">
 	<div class="row justify-content-between">
@@ -18,7 +18,21 @@
       <div class="card-body">
 	  <div class="row">
 	  <div class="col-md-3 col-sm-12">
-	  <img src="{{ .image }}" width="150px">
+		{{ $title := .title }}
+        {{ with .image }}
+        {{ $file := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+        {{ with $file }}
+        {{ $original := $file }}
+        {{ $scratch := newScratch }}
+        {{ if lt $original.Width 150 }}
+        <img src="{{ $original.RelPermalink }}" width ="{{ $original.Width }}px" class="rounded z-depth-1" alt="{{ $title }}">
+        {{ else }}
+        {{ $scratch.Set "image" ($original.Resize "150x") }}
+        {{ $image := $scratch.Get "image" }}
+        <img src="{{ $image.RelPermalink }}" class="rounded z-depth-1" alt="{{ $title }}">
+        {{ end }}
+        {{ end }}
+        {{ end }}
 	  </div>
 	  <div class="col-md-9 col-sm-12">
         <div class="content">{{ .texto | markdownify }}</div>
@@ -39,7 +53,21 @@
       <div class="card-body">
          <div class="row">
 	  <div class="col-md-3 col-sm-12">
-	  <img src="{{ .image }}" width="150px">
+		{{ $title := .title }}
+        {{ with .image }}
+        {{ $file := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+        {{ with $file }}
+        {{ $original := $file }}
+        {{ $scratch := newScratch }}
+        {{ if lt $original.Width 150 }}
+        <img src="{{ $original.RelPermalink }}" width ="{{ $original.Width }}px" class="rounded z-depth-1" alt="{{ $title }}">
+        {{ else }}
+        {{ $scratch.Set "image" ($original.Resize "150x") }}
+        {{ $image := $scratch.Get "image" }}
+        <img src="{{ $image.RelPermalink }}" class="rounded z-depth-1" alt="{{ $title }}">
+        {{ end }}
+        {{ end }}
+        {{ end }}
 	  </div>
 	  <div class="col-md-9 col-sm-12">
         <div class="content">{{ .texto | markdownify }}</div>
