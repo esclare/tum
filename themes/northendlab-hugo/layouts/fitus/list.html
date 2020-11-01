@@ -59,12 +59,15 @@
         {{ with $file }}
         {{ $original := $file }}
         {{ $scratch := newScratch }}
+		{{ $scratch2 := newScratch }}
         {{ if lt $original.Width 150 }}
         <img src="{{ $original.RelPermalink }}" width ="{{ $original.Width }}px" class="rounded z-depth-1" alt="{{ $title }}">
         {{ else }}
         {{ $scratch.Set "image" ($original.Resize "150x") }}
+		{{ $scratch2.Set "image" ($original.Resize "1200x") }}
         {{ $image := $scratch.Get "image" }}
-        <img src="{{ $image.RelPermalink }}" class="rounded z-depth-1" alt="{{ $title }}">
+		{{ $image2 := $scratch.Get "image" }}
+        <a href ="{{ $image2.RelPermalink }}"><img src="{{ $image.RelPermalink }}" class="rounded z-depth-1" alt="{{ $title }}"></a>
         {{ end }}
         {{ end }}
         {{ end }}
