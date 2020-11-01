@@ -259,7 +259,7 @@ fitus:
   image: "/images/2fitu1.jpg"
 - title: I FITU Bracara Avgvsta (10 e 11 de Maio de 1991)
   texto: "**Melhor Tuna** Tuna de Direito de Málaga"
-  image: "/images/1fitu2.jpg"
+  image: "/uploads/1fitu2.jpg"
 menu:
   main:
     URL: fitus
