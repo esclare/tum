@@ -90,7 +90,7 @@ descricao = "Passagem a Tuno em 1998"
 url = "/uploads/passagem_a_tuno_1998.JPG"
 [[params.homepageimage]]
 descricao = "Retiro no Gerês em 1995"
-url = "tum_retiro_geres_1995.JPG"
+url = "/uploads/tum_retiro_geres_1995.JPG"
 [[params.homepageimage]]
 descricao = "Estreia - Enterro da Gata 1990"
 url = "/uploads/estreia_tum.jpg"
