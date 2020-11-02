@@ -16,9 +16,9 @@
     {{ end }}
 			{{ range after 1 .Site.Params.homepageimage }}
     <div class="carousel-item">
-      <img class="carousel__img" src="https://unsplash.it/2000/1250?image=689" alt="Second slide">
+      <img class="carousel__img" src="{{ .url }}" alt="Second slide">
       <div class="carousel__caption carousel-caption">
-        <h1>Second Image</h1>
+        <h1>{{ .descricao }}</h1>
       </div>
     </div>
 	 {{ end }}
