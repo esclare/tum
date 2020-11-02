@@ -86,8 +86,11 @@ preloader = ""
 [params.search]
 enable = false
 [[params.homepageimage]]
-url = "/images/tum1.jpg"
+descricao = "Estreia - Enterro da Gata 1990"
+url = "/uploads/estreia_tum.jpg"
+[[params.homepageimage]]
 descricao = "E o Gerês me carregou a alma"
+url = "/images/tum1.jpg"
 [[params.social]]
 icon = "fab fa-facebook-f"
 link = "https://www.facebook.com/tunauniversitariaminho"
