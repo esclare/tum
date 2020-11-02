@@ -86,6 +86,9 @@ preloader = ""
 [params.search]
 enable = false
 [[params.homepageimage]]
+descricao = "Retiro no Gerês em 1995"
+url = "tum_retiro_geres_1995.JPG"
+[[params.homepageimage]]
 descricao = "Estreia - Enterro da Gata 1990"
 url = "/uploads/estreia_tum.jpg"
 [[params.homepageimage]]
