@@ -7,7 +7,7 @@
  <div id="mycarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
   {{ range first 1 .Site.Params.homepageimage }}
-    <div class="carousel-item item active">
+    <div class="carousel-item item active" role="listbox">
       <img class="carousel__img" src="{{ .url }}" alt="First slide">
       <div class="carousel__caption carousel-caption">
         <h3>{{ .descricao }}</h3>
@@ -16,7 +16,7 @@
     {{ end }}
 			{{ range after 1 .Site.Params.homepageimage }}
     <div class="carousel-item item">
-      <img class="carousel__img" lazy-load-src="{{ .url }}" alt="Second slide">
+      <img lazy-load-src="{{ .url }}" alt="Second slide">
       <div class="carousel__caption carousel-caption">
         <h3>{{ .descricao }}</h3>
       </div>
