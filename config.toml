@@ -109,3 +109,6 @@ link = "https://www.youtube.com/channel/UClj56MMgzqLuCQSa4Ege6nQ"
 [[params.social]]
 icon = "fab fa-spotify"
 link = "https://open.spotify.com/artist/7nEqs0isAyEONxQbPrVRgb?autoplay=true&v=A"
+[[params.social]]
+icon = "fab fa-tiktok"
+link = "https://www.tiktok.com/@tunauniversitariadominho"
