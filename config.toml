@@ -95,9 +95,6 @@ url = "/uploads/estreia_tum.jpg"
 descricao = "E o Gerês me carregou a alma"
 url = "/images/tum1.jpg"
 [[params.social]]
-icon = "far fa-envelope"
-link = "mailto:tunaminho@gmail.com"
-[[params.social]]
 icon = "fab fa-discord"
 link = "http://discord.tum.pt/"
 [[params.social]]
@@ -115,3 +112,9 @@ link = "https://open.spotify.com/artist/7nEqs0isAyEONxQbPrVRgb?autoplay=true&v=A
 [[params.social]]
 icon = "fab fa-tiktok"
 link = "https://www.tiktok.com/@tunauniversitariadominho"
+[[params.social]]
+icon = "fas fa-compact-disc"
+link = "https://www.facebook.com/commerce/products/2132755490069475"
+[[params.social]]
+icon = "far fa-envelope"
+link = "mailto:tunaminho@gmail.com"
