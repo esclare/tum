@@ -95,6 +95,9 @@ url = "/uploads/estreia_tum.jpg"
 descricao = "E o Gerês me carregou a alma"
 url = "/images/tum1.jpg"
 [[params.social]]
+icon = "fab fa-discord"
+link = "http://discord.tum.pt/"
+[[params.social]]
 icon = "fab fa-facebook-f"
 link = "https://www.facebook.com/tunauniversitariaminho"
 [[params.social]]
