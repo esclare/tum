@@ -12,5 +12,5 @@ menu:
 Magister - Ivan Gomes  
 Telefone: (+351) 910 439 236
 
-Director - Pedro Pinto  
-Telefone: (+351) 915 410 003
+Director - José Medeiros  
+Telefone: (+351) 912 976 858
