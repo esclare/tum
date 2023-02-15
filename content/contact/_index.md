@@ -9,8 +9,8 @@ menu:
     weight: 3
 
 ---
-Magister - Ivan Gomes  
-Telefone: (+351) 910 439 236
+Magister - Francisco Franco  
+Telefone: (+351) 969 007 408
 
-Director - José Medeiros  
-Telefone: (+351) 912 976 858
+Director - João Santos  
+Telefone: (+351) 925 023 286
