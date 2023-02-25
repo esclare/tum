@@ -12,5 +12,5 @@ menu:
 Magister - Francisco Franco  
 Telefone: (+351) 969 007 408
 
-Director - João Santos 
+Director - João Santos
 Telefone: (+351) 925 023 286
